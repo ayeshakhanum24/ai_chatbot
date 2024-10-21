@@ -1,0 +1,101 @@
+name,department,position,salary,years_experience,email,contact_number,join_date,manager,performance_rating,leaves_taken,gender,bonuses,promotions
+Norma Fisher,Marketing,Consultant,55306,9,tammy76@example.com,459.638.2421x9489,2016-06-21,Stephanie Sutton,5,15,Female,"[4964, 2952]","['Public house manager', 'Surveyor, minerals']"
+Jeffrey Carr,Finance,Analyst,116150,5,tammywoods@example.net,308-501-6097x535,2024-06-12,Robert Thomas,3,4,Male,"[4274, 2026, 4726, 3181]",['Speech and language therapist']
+Bobby Flores,Sales,Manager,145660,3,jrodriguez@example.com,001-818-758-3989x471,2024-08-01,Clinton Underwood,3,15,Male,"[2778, 2295]",['Amenity horticulturist']
+Mary Alvarez,Finance,Consultant,108024,28,sheltondavid@example.org,8186684833,2022-06-16,Martin Graves DVM,5,8,Male,"[4751, 1057, 1382, 3947]","['Marketing executive', 'Charity fundraiser', 'Journalist, broadcasting']"
+Katelyn Mccoy,IT,Executive,114694,27,johndennis@example.org,001-335-225-6012x309,2016-11-28,Lisa Johnston,3,7,Female,"[4565, 1257, 1782, 4756, 3324]","['Nurse, adult']"
+Roy Wilson,HR,Analyst,121170,15,leetara@example.net,673-300-8691,2018-07-20,Eric Graham,1,2,Female,"[4820, 3004, 1446, 2234]","['Biochemist, clinical', 'Retail manager']"
+Kyle Lyons,IT,Executive,93614,27,wgonzalez@example.net,492.230.2258x4197,2022-10-25,Stephanie Golden,5,6,Female,"[1375, 3442, 4268]","['Insurance risk surveyor', 'Marketing executive', 'Network engineer']"
+Danielle Castro,Sales,Executive,81733,10,ellischristian@example.net,7844237594,2020-01-27,Jason Curtis,2,6,Male,[],"['Accommodation manager', 'Therapist, music']"
+George Allen,Marketing,Manager,61773,22,rgray@example.net,(206)296-0271x42787,2023-03-17,Ryan Williams,2,28,Male,[],[]
+Valerie Perry,Finance,Consultant,142442,17,monroedavid@example.org,(565)603-0089x1319,2019-07-22,Catherine Alvarez,3,16,Male,[4666],"['Occupational psychologist', 'Ceramics designer', 'Advertising copywriter']"
+Jesse Sparks,Finance,Developer,109056,16,dennis85@example.org,(740)200-3485,2023-03-16,Stephanie Bowman,3,2,Female,"[1472, 2992, 3404, 3581]","['Microbiologist', 'Soil scientist']"
+James Carter,HR,Analyst,52124,24,edwardcook@example.com,001-815-490-0422x945,2019-10-14,Nicholas Peck,3,3,Male,"[4254, 1698]","['Insurance account manager', 'Editorial assistant']"
+Monica Turner,Marketing,Manager,63186,26,kevin11@example.net,475.851.7176x0452,2016-04-09,Bradley Brady,2,27,Male,[],[]
+Adam Long,IT,Manager,133230,7,shane79@example.net,+1-236-915-3492x63511,2018-03-23,James Clark,5,26,Male,"[1374, 2516, 4415]",[]
+Travis Lewis,IT,Executive,52835,7,danielellis@example.com,+1-921-797-2966,2023-04-10,Miss Shelly Daniels DVM,2,22,Male,"[1862, 3978, 4279]",[]
+Michael Burgess,IT,Executive,105786,20,lisa08@example.org,592-469-4711x801,2015-06-26,Peter West,1,26,Female,[],"['Designer, multimedia']"
+Sheila Murray,IT,Developer,95913,14,william88@example.org,001-818-991-6348,2021-05-27,Cynthia Hancock,2,1,Female,[],[]
+Stephen Yang,Marketing,Analyst,84096,12,william45@example.org,244.966.6022x3450,2021-11-25,Steve Guzman,4,26,Male,"[3755, 1833, 4958, 4143, 1237]",['Ceramics designer']
+Brittany Hatfield,HR,Developer,119399,9,djohnson@example.com,701.572.0099x251,2021-04-25,Paula Rodriguez,1,19,Female,"[1716, 1054, 2931, 3790, 2678]","['Best boy', 'Travel agency manager']"
+Lisa Peck,Sales,Consultant,136195,9,montesjennifer@example.com,(764)518-3067,2022-07-17,Mark Huber,2,17,Male,"[4037, 1323, 2375]",[]
+Amanda Scott,Finance,Developer,67673,8,duffyelizabeth@example.net,431.888.6841,2024-06-03,Bradley Garcia,4,11,Female,"[2471, 3417, 4878, 4653, 3595]",['Biomedical scientist']
+Raymond Navarro,Sales,Consultant,148105,14,moodyryan@example.com,2757415115,2020-09-16,Ronald Hall,1,0,Male,"[2369, 1655, 1980, 1913, 3610]","['Medical secretary', 'Building services engineer', 'Therapist, occupational']"
+Christine Harris,Marketing,Executive,104317,2,adkinskelly@example.net,6934227175,2015-04-08,Heidi Kennedy,4,27,Female,"[3904, 1191, 1678, 2824, 1261]","['Horticulturist, commercial', 'Housing manager/officer']"
+Tina Fields,HR,Consultant,119150,29,brittanymiller@example.net,001-542-562-2358,2017-12-02,Jason Williams,4,29,Male,[],"['Consulting civil engineer', 'Tourist information centre manager', 'Advertising art director']"
+Michael Anderson,Sales,Developer,111196,2,andrea29@example.com,951-537-5806x6065,2021-02-11,John Clements,4,6,Male,"[1534, 1060, 2645, 4889, 3779]","['Clinical embryologist', 'Health and safety inspector', 'Clinical research associate']"
+Melissa Flynn,Sales,Manager,77987,1,lhebert@example.com,(923)975-8257x17340,2014-12-04,Brian Irwin,1,26,Male,[1487],['Illustrator']
+Brooke Mccarthy,Sales,Developer,140248,6,fdavis@example.org,+1-864-801-4004,2022-05-10,David Campbell,1,15,Female,"[1333, 1089, 2125, 4743, 2855]",[]
+Susan Larson,Sales,Analyst,135664,17,jonesjose@example.net,318-832-1644x82983,2024-01-15,Richard French,3,3,Male,"[4486, 1076]",[]
+Jacob Fuller,IT,Analyst,139259,9,davidmartinez@example.com,001-972-984-5763,2023-04-29,Matthew Brown,5,10,Female,"[4726, 4479, 1172, 4466]","['Hydrologist', 'Customer service manager', 'Research scientist (life sciences)']"
+Marc Johnson,Marketing,Consultant,98817,28,amyers@example.net,616-605-0190,2018-08-25,Kenneth Lee,5,5,Male,"[3404, 2192, 1036]","[""Politician's assistant""]"
+Gary Jackson,HR,Developer,93700,11,rwong@example.com,(772)885-2327,2022-01-23,Jean Robinson,3,22,Male,"[4192, 3541]",[]
+Todd Willis,IT,Developer,71477,5,bullockarthur@example.net,325-602-3949,2020-10-18,Anthony Terry,5,9,Female,"[3246, 1531, 2201]",[]
+Mariah Payne,Marketing,Analyst,56325,10,fcarpenter@example.com,001-273-454-0002x504,2015-11-16,Melanie Arellano,2,27,Male,"[2651, 4422]","['Occupational psychologist', 'Surveyor, insurance']"
+Jody Morgan,Sales,Consultant,64241,4,obrienchristopher@example.com,587-554-0803x51385,2019-01-25,Nancy Collins,5,29,Female,"[2380, 4444, 4268]","['Music tutor', 'Forest/woodland manager']"
+Dr. David Torres,IT,Consultant,65205,23,smithtyler@example.com,3674771113,2021-11-01,Cindy Salazar,4,13,Male,"[2372, 4009]",['Physiotherapist']
+Stacie Foster,HR,Executive,99226,26,johnrobinson@example.com,(956)618-4983x478,2019-06-06,Bryan Logan,1,2,Male,[4071],['Child psychotherapist']
+Jason Robinson,IT,Consultant,51029,4,harmonzachary@example.org,564-519-5384,2015-11-23,Megan Hall,4,17,Female,"[4768, 3001, 4228]",['Quantity surveyor']
+Christopher Pacheco,Marketing,Manager,98277,8,michael02@example.com,(528)412-3793,2018-10-08,Heather Garza,3,18,Male,"[1786, 2468, 1471]",[]
+Stephanie Rodriguez,IT,Executive,109193,25,foxmichael@example.com,803-582-7785x1429,2020-03-05,Janet Brown,2,3,Female,"[2050, 1848, 3625]",[]
+Nicholas Nixon,HR,Executive,69182,4,michelle34@example.com,+1-524-205-9802x50700,2015-01-02,Matthew Jones,2,14,Female,"[3238, 4387]",['Biomedical engineer']
+Matthew Taylor,IT,Executive,113950,5,shanethomas@example.com,(956)260-6488,2024-05-26,Jennifer Myers,5,12,Female,"[3029, 3782, 4756, 4636]","['Accountant, chartered certified', 'Restaurant manager, fast food']"
+Sean Palmer,Marketing,Consultant,133239,22,christopheryoung@example.org,902.482.1691,2015-06-22,Robert Oconnor,2,17,Male,[],"['Aid worker', 'Animator']"
+Ian Powers MD,Sales,Developer,54648,17,francis65@example.com,260.948.4870x8984,2021-07-06,Jennifer Crawford,2,27,Female,"[4211, 1638, 4450, 2552]","['Advertising art director', 'Government social research officer']"
+Amanda Becker,Marketing,Manager,61094,17,wanda38@example.net,264-231-9539x85225,2024-05-26,Gregory Carter,1,2,Male,[1166],"['Hospital doctor', 'IT trainer']"
+Jamie Jordan Jr.,IT,Consultant,93331,28,ashleyramos@example.com,4744931864,2015-11-14,Brooke Rodriguez,2,25,Male,"[2887, 4967, 2520, 3068, 2565]",[]
+Rebecca Jacobs,Finance,Manager,138941,26,sbaker@example.org,(844)788-8553x62082,2022-09-09,Kristina Jenkins,5,24,Male,"[2746, 4710, 4090, 1844, 2186]","['Visual merchandiser', 'Estate agent', 'Administrator, sports']"
+William Moore,Marketing,Consultant,129617,19,crystalburton@example.com,9395342619,2022-06-11,Stephanie Patrick,2,27,Male,"[4626, 1000, 4034, 1745, 2238]","['Chiropodist', 'Emergency planning/management officer']"
+Thomas Reilly,Sales,Manager,114685,28,qshepard@example.com,001-859-251-4070x43666,2024-09-14,Ronald Martinez,3,30,Female,"[2573, 4317, 2571]",[]
+Erin Johnson,HR,Analyst,81319,10,imccall@example.org,995-250-1318,2020-02-22,Sarah Landry,3,1,Male,"[2711, 1577, 3014]",[]
+Taylor Joyce,HR,Developer,103888,2,richard29@example.org,(448)702-2270x8086,2024-10-04,Angela Thompson,5,14,Female,"[1192, 1415, 2928]",['Geochemist']
+Dean Graves,IT,Manager,128420,20,kimberly87@example.org,001-578-920-9280x51379,2023-09-05,Gene Rios,2,20,Female,[],"['Publishing copy', 'Surveyor, commercial/residential']"
+Bradley Holmes,HR,Consultant,114267,4,hesschristopher@example.com,+1-459-475-6851x250,2015-02-13,Lawrence Williams,1,19,Female,"[3589, 4825, 2383, 3664]",[]
+Melissa Robles,Finance,Developer,66660,30,burkelaura@example.org,(816)407-5994x497,2015-04-25,Dennis Avery,4,25,Female,"[4573, 4922, 3789, 4318, 1497]",['Bonds trader']
+Caleb Bell,IT,Consultant,108271,12,richardvaughn@example.org,778-777-1086x40811,2016-06-19,Andrew Stout,2,14,Female,"[1308, 4917, 1182, 4694, 4826]",[]
+Donna Johnson,Marketing,Developer,53493,17,jmorgan@example.net,(822)223-9507,2018-08-23,Douglas Jackson,5,18,Male,[1382],"['Field seismologist', 'Management consultant', 'Equities trader']"
+Jason Cox,Finance,Developer,64869,5,paultownsend@example.org,001-206-222-0058,2015-08-06,Ashley Carr,4,28,Female,[],[]
+Megan James,Marketing,Manager,63003,14,barnesashley@example.net,832-858-3861x26951,2018-12-21,Danny Foster,2,23,Male,"[2765, 3811, 2708]",[]
+Jennifer Perkins,Marketing,Developer,144705,9,whitney85@example.net,8993734095,2023-11-20,Amber Reeves,1,11,Male,[],"['Aid worker', 'Pharmacist, community']"
+Vanessa Hamilton,IT,Developer,95597,6,reevescassandra@example.org,(757)762-9481,2017-03-21,Pamela Mccoy,1,26,Male,"[1288, 3443]",['Audiological scientist']
+Tyler Thompson,HR,Manager,76842,22,kenneth04@example.net,(806)846-3522x19520,2022-09-05,Michael Becker,1,23,Male,"[2511, 3824]",[]
+Kimberly Spencer,Finance,Analyst,68597,6,ericmartin@example.org,427.859.4516x42585,2024-03-29,Spencer Riddle,4,3,Female,"[3897, 4928]","['Logistics and distribution manager', 'Newspaper journalist']"
+Kayla Oconnell,HR,Manager,77278,12,rhess@example.org,(309)698-1399,2017-08-29,Ricky Smith,3,15,Female,"[4838, 4597]","['Medical illustrator', 'Quarry manager']"
+Michael Wood,HR,Executive,60591,4,elizabeth32@example.net,+1-518-920-2869,2021-09-06,Kevin Gillespie,5,18,Female,[2542],['Dramatherapist']
+Krystal Hendricks,HR,Analyst,91404,17,schneiderrichard@example.org,570.779.1487x86742,2017-07-04,Lee Rangel,2,7,Male,"[2525, 2719]",[]
+Victor Mendoza,HR,Executive,52693,13,qhawkins@example.com,514.225.1202,2015-05-10,Kristin Campos,1,22,Male,[2721],"['Recycling officer', 'Clinical biochemist']"
+Kristin Baxter,Finance,Consultant,147108,30,monique03@example.org,844.530.7585x1149,2021-01-16,Shannon Thomas,2,18,Female,"[3609, 2452]",[]
+Curtis Parsons,HR,Consultant,132939,12,justin92@example.org,(958)673-5564x5641,2016-11-04,Gregory Sanchez,5,1,Female,"[1034, 2708, 4940]","['Embryologist, clinical', 'Lexicographer']"
+Mr. James Price MD,Marketing,Analyst,98705,10,emmashaw@example.com,858.201.7563,2024-07-31,Jennifer Baker,4,2,Male,[],"['Journalist, newspaper', 'Editor, magazine features']"
+Robert Diaz,IT,Executive,129370,23,stephaniesmith@example.net,2218993173,2015-12-05,Tammy Perez,2,25,Female,"[1759, 4144, 2727]","['Pathologist', 'Museum/gallery exhibitions officer', 'Public relations officer']"
+Jessica James,HR,Analyst,109434,11,gilbertjoseph@example.net,(255)472-9814x114,2017-02-07,Kenneth Keller,5,4,Female,"[3586, 3610, 1354]","['Engineer, drilling', 'Pharmacist, community', 'Rural practice surveyor']"
+Kristin Steele,HR,Developer,50241,27,cmartinez@example.com,(778)552-6461,2022-07-06,John Mcconnell,4,19,Female,[],['Aeronautical engineer']
+Stephen Tran,Sales,Manager,132433,10,pwalker@example.com,672.337.4579x2813,2015-10-18,Andrew Berg,5,19,Male,"[3892, 4077, 2930]",[]
+Pamela Mcdonald,Marketing,Analyst,121269,25,robertlee@example.com,8584352889,2023-03-10,Laura Lewis,4,8,Male,[],"['Prison officer', 'Amenity horticulturist']"
+Taylor Bridges,IT,Manager,83629,13,aaronbrown@example.org,793.918.6457x325,2021-06-10,Matthew Singleton,5,28,Female,"[1417, 4057, 2034]","['Psychotherapist', 'Broadcast engineer']"
+Paul Walton,Sales,Analyst,128041,3,tsampson@example.net,850.506.3169,2014-11-11,Mary Schmidt,1,2,Female,"[3185, 2392]",[]
+Elizabeth Stephens,Finance,Analyst,149876,6,millertara@example.com,001-703-469-5410x39098,2022-09-19,Kevin Ramirez,1,13,Female,"[3129, 1550]",['English as a foreign language teacher']
+Paul Pennington,Finance,Manager,103844,21,madisonbaker@example.org,8257997187,2021-05-08,Allison Hamilton,5,12,Female,"[2811, 2522]",['Contracting civil engineer']
+Stacey Wilson,HR,Manager,141361,4,owright@example.com,261-454-5938x805,2023-03-22,Mandy Scott,4,12,Female,[3292],"['Copywriter, advertising', 'Local government officer']"
+Ariana Hoffman DVM,Sales,Consultant,147300,14,kingdalton@example.org,001-527-408-3518,2018-09-16,Lee Mcgee,2,15,Female,"[3054, 2303, 3018, 3670, 4925]",[]
+Derrick Kaufman,Marketing,Developer,68718,24,terri83@example.org,252.648.0154x501,2016-09-28,Donald Harris,4,1,Male,[],"['Surveyor, building', 'Logistics and distribution manager']"
+Ann Shaw,Marketing,Consultant,51325,28,lmartinez@example.com,624-236-4000x41558,2019-01-10,Melissa Taylor,5,2,Male,"[4888, 4039, 4787, 3740, 2618]",[]
+Rachel Barnes,Sales,Manager,65224,20,jonedwards@example.net,371.665.2803x7603,2016-06-19,Sue Horne,1,8,Female,"[4689, 1928, 1576, 4078, 3346]","['Administrator, local government', 'Medical illustrator']"
+Belinda Wright,HR,Manager,106887,15,joseph67@example.net,4284533234,2024-03-06,Ms. Catherine Lin,3,12,Male,"[2727, 3654]","['Pensions consultant', 'Designer, graphic', 'Financial planner']"
+Betty Whitaker,HR,Consultant,142907,5,juliewarren@example.com,001-907-330-6268x636,2016-12-12,Kim Nolan,5,10,Male,[4728],['Ceramics designer']
+Paul Sanchez,Marketing,Developer,100970,14,rcole@example.com,(964)512-9330x081,2022-06-16,Stephanie Stanley,4,12,Male,[2799],['Tourism officer']
+Katrina Smith,Finance,Manager,100901,2,michaelhoward@example.com,642.707.3965x74727,2020-09-23,Lindsey Foster,2,20,Male,[2489],[]
+Steven Evans,HR,Analyst,130056,10,jacobrobinson@example.net,(682)898-8875,2019-12-04,Matthew Williams,5,2,Female,"[2685, 2877]",[]
+Tracy Ellis,Finance,Executive,146261,30,smithcarla@example.com,2322925940,2017-08-22,Emily Short,4,18,Female,"[2043, 3884, 2948]","['Nurse, learning disability']"
+Nancy Garrison,Sales,Developer,55535,2,perkinskimberly@example.net,5207984536,2017-12-06,Kathleen Hernandez,1,5,Female,[],"['Therapist, art', 'Risk analyst']"
+Mark Lozano,IT,Analyst,58347,26,rebeccabrown@example.net,2287164593,2017-02-21,William Burgess,4,21,Male,"[2624, 3284, 4774, 1905]","['Radiographer, diagnostic', 'Quarry manager', 'Transport planner']"
+Debra Brewer,HR,Developer,129733,4,kbrock@example.org,448.969.7629x62191,2019-10-19,Ariel Duran,5,28,Male,"[2322, 3195]","['Garment/textile technologist', 'Health and safety adviser', 'Clinical psychologist']"
+Katrina Herrera,Sales,Developer,53778,17,smithcathy@example.org,566-270-5216,2018-05-09,Thomas Johnson,1,6,Female,[],['Tour manager']
+Brandi Simon,Finance,Developer,74613,27,richard80@example.net,682.682.3921x974,2018-05-24,Adam Fields,2,8,Female,"[3117, 4522]","['Arts development officer', 'Scientist, research (physical sciences)', 'Building control surveyor']"
+Margaret Moore,Sales,Consultant,95080,28,marissaromero@example.org,905-325-9115x34757,2016-03-02,James Powell,2,1,Female,"[1296, 1037, 2887, 3028]","['Quantity surveyor', 'Structural engineer', 'Physiological scientist']"
+Susan Thomas,IT,Consultant,114694,15,gpoole@example.com,(612)620-6911,2020-10-13,Sheila Woods,4,3,Male,[],"['Therapist, art']"
+Natasha Conway,IT,Analyst,104265,29,ohunt@example.net,9653580391,2021-01-19,Malik Gardner,2,14,Male,"[3289, 4091, 4631]","['Scientist, physiological', 'Runner, broadcasting/film/video', 'Clinical research associate']"
+Laura Williams,IT,Analyst,82732,16,hector47@example.com,001-960-537-5207x82649,2015-04-04,Yvonne Greene,2,4,Female,"[2309, 2781]",[]
+Carrie Alexander,Finance,Developer,129964,18,tiffany92@example.net,(563)756-4334x38957,2017-04-14,Charles Wolf,2,22,Female,"[3105, 3476, 2892]","['Statistician', 'Early years teacher']"
+Michelle Wilson,Sales,Analyst,52170,4,scastillo@example.org,+1-559-731-8734x648,2021-09-17,Alex Lee,5,25,Male,[4001],"['Engineer, chemical', 'Trade mark attorney', 'Development worker, community']"
+Judy King,HR,Analyst,87297,29,haley65@example.net,001-860-910-5249x8748,2021-03-04,Michael Barber,1,23,Female,[],[]

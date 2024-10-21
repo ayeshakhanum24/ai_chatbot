@@ -1,0 +1,1406 @@
+Question,Answer
+What is the total number of employees?,100
+What is the average salary of employees?,98310.66
+What is the average years of experience among employees?,14.8
+How many employees are in each department?,"{'HR': 24, 'IT': 22, 'Marketing': 19, 'Sales': 19, 'Finance': 16}"
+What is the gender distribution of the employees?,"{'Female': 50, 'Male': 50}"
+What is the salary of Norma Fisher?,55306
+How many years of experience does Norma Fisher have?,9
+What department does Norma Fisher work in?,Marketing
+What position does Norma Fisher hold?,Consultant
+What is Norma Fisher's email?,tammy76@example.com
+What is the contact number of Norma Fisher?,459.638.2421x9489
+When did Norma Fisher join the company?,2016-06-21
+Who is the manager of Norma Fisher?,Stephanie Sutton
+What is the performance rating of Norma Fisher?,5
+How many leaves has Norma Fisher taken?,15
+What is the gender of Norma Fisher?,Female
+What bonuses has Norma Fisher received?,"[4964, 2952]"
+What promotions has Norma Fisher received?,"['Public house manager', 'Surveyor, minerals']"
+List all details for Norma Fisher.,"{'name': 'Norma Fisher', 'department': 'Marketing', 'position': 'Consultant', 'salary': 55306, 'years_experience': 9, 'email': 'tammy76@example.com', 'contact_number': '459.638.2421x9489', 'join_date': '2016-06-21', 'manager': 'Stephanie Sutton', 'performance_rating': 5, 'leaves_taken': 15, 'gender': 'Female', 'bonuses': '[4964, 2952]', 'promotions': ""['Public house manager', 'Surveyor, minerals']""}"
+What is the salary of Jeffrey Carr?,116150
+How many years of experience does Jeffrey Carr have?,5
+What department does Jeffrey Carr work in?,Finance
+What position does Jeffrey Carr hold?,Analyst
+What is Jeffrey Carr's email?,tammywoods@example.net
+What is the contact number of Jeffrey Carr?,308-501-6097x535
+When did Jeffrey Carr join the company?,2024-06-12
+Who is the manager of Jeffrey Carr?,Robert Thomas
+What is the performance rating of Jeffrey Carr?,3
+How many leaves has Jeffrey Carr taken?,4
+What is the gender of Jeffrey Carr?,Male
+What bonuses has Jeffrey Carr received?,"[4274, 2026, 4726, 3181]"
+What promotions has Jeffrey Carr received?,['Speech and language therapist']
+List all details for Jeffrey Carr.,"{'name': 'Jeffrey Carr', 'department': 'Finance', 'position': 'Analyst', 'salary': 116150, 'years_experience': 5, 'email': 'tammywoods@example.net', 'contact_number': '308-501-6097x535', 'join_date': '2024-06-12', 'manager': 'Robert Thomas', 'performance_rating': 3, 'leaves_taken': 4, 'gender': 'Male', 'bonuses': '[4274, 2026, 4726, 3181]', 'promotions': ""['Speech and language therapist']""}"
+What is the salary of Bobby Flores?,145660
+How many years of experience does Bobby Flores have?,3
+What department does Bobby Flores work in?,Sales
+What position does Bobby Flores hold?,Manager
+What is Bobby Flores's email?,jrodriguez@example.com
+What is the contact number of Bobby Flores?,001-818-758-3989x471
+When did Bobby Flores join the company?,2024-08-01
+Who is the manager of Bobby Flores?,Clinton Underwood
+What is the performance rating of Bobby Flores?,3
+How many leaves has Bobby Flores taken?,15
+What is the gender of Bobby Flores?,Male
+What bonuses has Bobby Flores received?,"[2778, 2295]"
+What promotions has Bobby Flores received?,['Amenity horticulturist']
+List all details for Bobby Flores.,"{'name': 'Bobby Flores', 'department': 'Sales', 'position': 'Manager', 'salary': 145660, 'years_experience': 3, 'email': 'jrodriguez@example.com', 'contact_number': '001-818-758-3989x471', 'join_date': '2024-08-01', 'manager': 'Clinton Underwood', 'performance_rating': 3, 'leaves_taken': 15, 'gender': 'Male', 'bonuses': '[2778, 2295]', 'promotions': ""['Amenity horticulturist']""}"
+What is the salary of Mary Alvarez?,108024
+How many years of experience does Mary Alvarez have?,28
+What department does Mary Alvarez work in?,Finance
+What position does Mary Alvarez hold?,Consultant
+What is Mary Alvarez's email?,sheltondavid@example.org
+What is the contact number of Mary Alvarez?,8186684833
+When did Mary Alvarez join the company?,2022-06-16
+Who is the manager of Mary Alvarez?,Martin Graves DVM
+What is the performance rating of Mary Alvarez?,5
+How many leaves has Mary Alvarez taken?,8
+What is the gender of Mary Alvarez?,Male
+What bonuses has Mary Alvarez received?,"[4751, 1057, 1382, 3947]"
+What promotions has Mary Alvarez received?,"['Marketing executive', 'Charity fundraiser', 'Journalist, broadcasting']"
+List all details for Mary Alvarez.,"{'name': 'Mary Alvarez', 'department': 'Finance', 'position': 'Consultant', 'salary': 108024, 'years_experience': 28, 'email': 'sheltondavid@example.org', 'contact_number': '8186684833', 'join_date': '2022-06-16', 'manager': 'Martin Graves DVM', 'performance_rating': 5, 'leaves_taken': 8, 'gender': 'Male', 'bonuses': '[4751, 1057, 1382, 3947]', 'promotions': ""['Marketing executive', 'Charity fundraiser', 'Journalist, broadcasting']""}"
+What is the salary of Katelyn Mccoy?,114694
+How many years of experience does Katelyn Mccoy have?,27
+What department does Katelyn Mccoy work in?,IT
+What position does Katelyn Mccoy hold?,Executive
+What is Katelyn Mccoy's email?,johndennis@example.org
+What is the contact number of Katelyn Mccoy?,001-335-225-6012x309
+When did Katelyn Mccoy join the company?,2016-11-28
+Who is the manager of Katelyn Mccoy?,Lisa Johnston
+What is the performance rating of Katelyn Mccoy?,3
+How many leaves has Katelyn Mccoy taken?,7
+What is the gender of Katelyn Mccoy?,Female
+What bonuses has Katelyn Mccoy received?,"[4565, 1257, 1782, 4756, 3324]"
+What promotions has Katelyn Mccoy received?,"['Nurse, adult']"
+List all details for Katelyn Mccoy.,"{'name': 'Katelyn Mccoy', 'department': 'IT', 'position': 'Executive', 'salary': 114694, 'years_experience': 27, 'email': 'johndennis@example.org', 'contact_number': '001-335-225-6012x309', 'join_date': '2016-11-28', 'manager': 'Lisa Johnston', 'performance_rating': 3, 'leaves_taken': 7, 'gender': 'Female', 'bonuses': '[4565, 1257, 1782, 4756, 3324]', 'promotions': ""['Nurse, adult']""}"
+What is the salary of Roy Wilson?,121170
+How many years of experience does Roy Wilson have?,15
+What department does Roy Wilson work in?,HR
+What position does Roy Wilson hold?,Analyst
+What is Roy Wilson's email?,leetara@example.net
+What is the contact number of Roy Wilson?,673-300-8691
+When did Roy Wilson join the company?,2018-07-20
+Who is the manager of Roy Wilson?,Eric Graham
+What is the performance rating of Roy Wilson?,1
+How many leaves has Roy Wilson taken?,2
+What is the gender of Roy Wilson?,Female
+What bonuses has Roy Wilson received?,"[4820, 3004, 1446, 2234]"
+What promotions has Roy Wilson received?,"['Biochemist, clinical', 'Retail manager']"
+List all details for Roy Wilson.,"{'name': 'Roy Wilson', 'department': 'HR', 'position': 'Analyst', 'salary': 121170, 'years_experience': 15, 'email': 'leetara@example.net', 'contact_number': '673-300-8691', 'join_date': '2018-07-20', 'manager': 'Eric Graham', 'performance_rating': 1, 'leaves_taken': 2, 'gender': 'Female', 'bonuses': '[4820, 3004, 1446, 2234]', 'promotions': ""['Biochemist, clinical', 'Retail manager']""}"
+What is the salary of Kyle Lyons?,93614
+How many years of experience does Kyle Lyons have?,27
+What department does Kyle Lyons work in?,IT
+What position does Kyle Lyons hold?,Executive
+What is Kyle Lyons's email?,wgonzalez@example.net
+What is the contact number of Kyle Lyons?,492.230.2258x4197
+When did Kyle Lyons join the company?,2022-10-25
+Who is the manager of Kyle Lyons?,Stephanie Golden
+What is the performance rating of Kyle Lyons?,5
+How many leaves has Kyle Lyons taken?,6
+What is the gender of Kyle Lyons?,Female
+What bonuses has Kyle Lyons received?,"[1375, 3442, 4268]"
+What promotions has Kyle Lyons received?,"['Insurance risk surveyor', 'Marketing executive', 'Network engineer']"
+List all details for Kyle Lyons.,"{'name': 'Kyle Lyons', 'department': 'IT', 'position': 'Executive', 'salary': 93614, 'years_experience': 27, 'email': 'wgonzalez@example.net', 'contact_number': '492.230.2258x4197', 'join_date': '2022-10-25', 'manager': 'Stephanie Golden', 'performance_rating': 5, 'leaves_taken': 6, 'gender': 'Female', 'bonuses': '[1375, 3442, 4268]', 'promotions': ""['Insurance risk surveyor', 'Marketing executive', 'Network engineer']""}"
+What is the salary of Danielle Castro?,81733
+How many years of experience does Danielle Castro have?,10
+What department does Danielle Castro work in?,Sales
+What position does Danielle Castro hold?,Executive
+What is Danielle Castro's email?,ellischristian@example.net
+What is the contact number of Danielle Castro?,7844237594
+When did Danielle Castro join the company?,2020-01-27
+Who is the manager of Danielle Castro?,Jason Curtis
+What is the performance rating of Danielle Castro?,2
+How many leaves has Danielle Castro taken?,6
+What is the gender of Danielle Castro?,Male
+What bonuses has Danielle Castro received?,[]
+What promotions has Danielle Castro received?,"['Accommodation manager', 'Therapist, music']"
+List all details for Danielle Castro.,"{'name': 'Danielle Castro', 'department': 'Sales', 'position': 'Executive', 'salary': 81733, 'years_experience': 10, 'email': 'ellischristian@example.net', 'contact_number': '7844237594', 'join_date': '2020-01-27', 'manager': 'Jason Curtis', 'performance_rating': 2, 'leaves_taken': 6, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Accommodation manager', 'Therapist, music']""}"
+What is the salary of George Allen?,61773
+How many years of experience does George Allen have?,22
+What department does George Allen work in?,Marketing
+What position does George Allen hold?,Manager
+What is George Allen's email?,rgray@example.net
+What is the contact number of George Allen?,(206)296-0271x42787
+When did George Allen join the company?,2023-03-17
+Who is the manager of George Allen?,Ryan Williams
+What is the performance rating of George Allen?,2
+How many leaves has George Allen taken?,28
+What is the gender of George Allen?,Male
+What bonuses has George Allen received?,[]
+What promotions has George Allen received?,[]
+List all details for George Allen.,"{'name': 'George Allen', 'department': 'Marketing', 'position': 'Manager', 'salary': 61773, 'years_experience': 22, 'email': 'rgray@example.net', 'contact_number': '(206)296-0271x42787', 'join_date': '2023-03-17', 'manager': 'Ryan Williams', 'performance_rating': 2, 'leaves_taken': 28, 'gender': 'Male', 'bonuses': '[]', 'promotions': '[]'}"
+What is the salary of Valerie Perry?,142442
+How many years of experience does Valerie Perry have?,17
+What department does Valerie Perry work in?,Finance
+What position does Valerie Perry hold?,Consultant
+What is Valerie Perry's email?,monroedavid@example.org
+What is the contact number of Valerie Perry?,(565)603-0089x1319
+When did Valerie Perry join the company?,2019-07-22
+Who is the manager of Valerie Perry?,Catherine Alvarez
+What is the performance rating of Valerie Perry?,3
+How many leaves has Valerie Perry taken?,16
+What is the gender of Valerie Perry?,Male
+What bonuses has Valerie Perry received?,[4666]
+What promotions has Valerie Perry received?,"['Occupational psychologist', 'Ceramics designer', 'Advertising copywriter']"
+List all details for Valerie Perry.,"{'name': 'Valerie Perry', 'department': 'Finance', 'position': 'Consultant', 'salary': 142442, 'years_experience': 17, 'email': 'monroedavid@example.org', 'contact_number': '(565)603-0089x1319', 'join_date': '2019-07-22', 'manager': 'Catherine Alvarez', 'performance_rating': 3, 'leaves_taken': 16, 'gender': 'Male', 'bonuses': '[4666]', 'promotions': ""['Occupational psychologist', 'Ceramics designer', 'Advertising copywriter']""}"
+What is the salary of Jesse Sparks?,109056
+How many years of experience does Jesse Sparks have?,16
+What department does Jesse Sparks work in?,Finance
+What position does Jesse Sparks hold?,Developer
+What is Jesse Sparks's email?,dennis85@example.org
+What is the contact number of Jesse Sparks?,(740)200-3485
+When did Jesse Sparks join the company?,2023-03-16
+Who is the manager of Jesse Sparks?,Stephanie Bowman
+What is the performance rating of Jesse Sparks?,3
+How many leaves has Jesse Sparks taken?,2
+What is the gender of Jesse Sparks?,Female
+What bonuses has Jesse Sparks received?,"[1472, 2992, 3404, 3581]"
+What promotions has Jesse Sparks received?,"['Microbiologist', 'Soil scientist']"
+List all details for Jesse Sparks.,"{'name': 'Jesse Sparks', 'department': 'Finance', 'position': 'Developer', 'salary': 109056, 'years_experience': 16, 'email': 'dennis85@example.org', 'contact_number': '(740)200-3485', 'join_date': '2023-03-16', 'manager': 'Stephanie Bowman', 'performance_rating': 3, 'leaves_taken': 2, 'gender': 'Female', 'bonuses': '[1472, 2992, 3404, 3581]', 'promotions': ""['Microbiologist', 'Soil scientist']""}"
+What is the salary of James Carter?,52124
+How many years of experience does James Carter have?,24
+What department does James Carter work in?,HR
+What position does James Carter hold?,Analyst
+What is James Carter's email?,edwardcook@example.com
+What is the contact number of James Carter?,001-815-490-0422x945
+When did James Carter join the company?,2019-10-14
+Who is the manager of James Carter?,Nicholas Peck
+What is the performance rating of James Carter?,3
+How many leaves has James Carter taken?,3
+What is the gender of James Carter?,Male
+What bonuses has James Carter received?,"[4254, 1698]"
+What promotions has James Carter received?,"['Insurance account manager', 'Editorial assistant']"
+List all details for James Carter.,"{'name': 'James Carter', 'department': 'HR', 'position': 'Analyst', 'salary': 52124, 'years_experience': 24, 'email': 'edwardcook@example.com', 'contact_number': '001-815-490-0422x945', 'join_date': '2019-10-14', 'manager': 'Nicholas Peck', 'performance_rating': 3, 'leaves_taken': 3, 'gender': 'Male', 'bonuses': '[4254, 1698]', 'promotions': ""['Insurance account manager', 'Editorial assistant']""}"
+What is the salary of Monica Turner?,63186
+How many years of experience does Monica Turner have?,26
+What department does Monica Turner work in?,Marketing
+What position does Monica Turner hold?,Manager
+What is Monica Turner's email?,kevin11@example.net
+What is the contact number of Monica Turner?,475.851.7176x0452
+When did Monica Turner join the company?,2016-04-09
+Who is the manager of Monica Turner?,Bradley Brady
+What is the performance rating of Monica Turner?,2
+How many leaves has Monica Turner taken?,27
+What is the gender of Monica Turner?,Male
+What bonuses has Monica Turner received?,[]
+What promotions has Monica Turner received?,[]
+List all details for Monica Turner.,"{'name': 'Monica Turner', 'department': 'Marketing', 'position': 'Manager', 'salary': 63186, 'years_experience': 26, 'email': 'kevin11@example.net', 'contact_number': '475.851.7176x0452', 'join_date': '2016-04-09', 'manager': 'Bradley Brady', 'performance_rating': 2, 'leaves_taken': 27, 'gender': 'Male', 'bonuses': '[]', 'promotions': '[]'}"
+What is the salary of Adam Long?,133230
+How many years of experience does Adam Long have?,7
+What department does Adam Long work in?,IT
+What position does Adam Long hold?,Manager
+What is Adam Long's email?,shane79@example.net
+What is the contact number of Adam Long?,+1-236-915-3492x63511
+When did Adam Long join the company?,2018-03-23
+Who is the manager of Adam Long?,James Clark
+What is the performance rating of Adam Long?,5
+How many leaves has Adam Long taken?,26
+What is the gender of Adam Long?,Male
+What bonuses has Adam Long received?,"[1374, 2516, 4415]"
+What promotions has Adam Long received?,[]
+List all details for Adam Long.,"{'name': 'Adam Long', 'department': 'IT', 'position': 'Manager', 'salary': 133230, 'years_experience': 7, 'email': 'shane79@example.net', 'contact_number': '+1-236-915-3492x63511', 'join_date': '2018-03-23', 'manager': 'James Clark', 'performance_rating': 5, 'leaves_taken': 26, 'gender': 'Male', 'bonuses': '[1374, 2516, 4415]', 'promotions': '[]'}"
+What is the salary of Travis Lewis?,52835
+How many years of experience does Travis Lewis have?,7
+What department does Travis Lewis work in?,IT
+What position does Travis Lewis hold?,Executive
+What is Travis Lewis's email?,danielellis@example.com
+What is the contact number of Travis Lewis?,+1-921-797-2966
+When did Travis Lewis join the company?,2023-04-10
+Who is the manager of Travis Lewis?,Miss Shelly Daniels DVM
+What is the performance rating of Travis Lewis?,2
+How many leaves has Travis Lewis taken?,22
+What is the gender of Travis Lewis?,Male
+What bonuses has Travis Lewis received?,"[1862, 3978, 4279]"
+What promotions has Travis Lewis received?,[]
+List all details for Travis Lewis.,"{'name': 'Travis Lewis', 'department': 'IT', 'position': 'Executive', 'salary': 52835, 'years_experience': 7, 'email': 'danielellis@example.com', 'contact_number': '+1-921-797-2966', 'join_date': '2023-04-10', 'manager': 'Miss Shelly Daniels DVM', 'performance_rating': 2, 'leaves_taken': 22, 'gender': 'Male', 'bonuses': '[1862, 3978, 4279]', 'promotions': '[]'}"
+What is the salary of Michael Burgess?,105786
+How many years of experience does Michael Burgess have?,20
+What department does Michael Burgess work in?,IT
+What position does Michael Burgess hold?,Executive
+What is Michael Burgess's email?,lisa08@example.org
+What is the contact number of Michael Burgess?,592-469-4711x801
+When did Michael Burgess join the company?,2015-06-26
+Who is the manager of Michael Burgess?,Peter West
+What is the performance rating of Michael Burgess?,1
+How many leaves has Michael Burgess taken?,26
+What is the gender of Michael Burgess?,Female
+What bonuses has Michael Burgess received?,[]
+What promotions has Michael Burgess received?,"['Designer, multimedia']"
+List all details for Michael Burgess.,"{'name': 'Michael Burgess', 'department': 'IT', 'position': 'Executive', 'salary': 105786, 'years_experience': 20, 'email': 'lisa08@example.org', 'contact_number': '592-469-4711x801', 'join_date': '2015-06-26', 'manager': 'Peter West', 'performance_rating': 1, 'leaves_taken': 26, 'gender': 'Female', 'bonuses': '[]', 'promotions': ""['Designer, multimedia']""}"
+What is the salary of Sheila Murray?,95913
+How many years of experience does Sheila Murray have?,14
+What department does Sheila Murray work in?,IT
+What position does Sheila Murray hold?,Developer
+What is Sheila Murray's email?,william88@example.org
+What is the contact number of Sheila Murray?,001-818-991-6348
+When did Sheila Murray join the company?,2021-05-27
+Who is the manager of Sheila Murray?,Cynthia Hancock
+What is the performance rating of Sheila Murray?,2
+How many leaves has Sheila Murray taken?,1
+What is the gender of Sheila Murray?,Female
+What bonuses has Sheila Murray received?,[]
+What promotions has Sheila Murray received?,[]
+List all details for Sheila Murray.,"{'name': 'Sheila Murray', 'department': 'IT', 'position': 'Developer', 'salary': 95913, 'years_experience': 14, 'email': 'william88@example.org', 'contact_number': '001-818-991-6348', 'join_date': '2021-05-27', 'manager': 'Cynthia Hancock', 'performance_rating': 2, 'leaves_taken': 1, 'gender': 'Female', 'bonuses': '[]', 'promotions': '[]'}"
+What is the salary of Stephen Yang?,84096
+How many years of experience does Stephen Yang have?,12
+What department does Stephen Yang work in?,Marketing
+What position does Stephen Yang hold?,Analyst
+What is Stephen Yang's email?,william45@example.org
+What is the contact number of Stephen Yang?,244.966.6022x3450
+When did Stephen Yang join the company?,2021-11-25
+Who is the manager of Stephen Yang?,Steve Guzman
+What is the performance rating of Stephen Yang?,4
+How many leaves has Stephen Yang taken?,26
+What is the gender of Stephen Yang?,Male
+What bonuses has Stephen Yang received?,"[3755, 1833, 4958, 4143, 1237]"
+What promotions has Stephen Yang received?,['Ceramics designer']
+List all details for Stephen Yang.,"{'name': 'Stephen Yang', 'department': 'Marketing', 'position': 'Analyst', 'salary': 84096, 'years_experience': 12, 'email': 'william45@example.org', 'contact_number': '244.966.6022x3450', 'join_date': '2021-11-25', 'manager': 'Steve Guzman', 'performance_rating': 4, 'leaves_taken': 26, 'gender': 'Male', 'bonuses': '[3755, 1833, 4958, 4143, 1237]', 'promotions': ""['Ceramics designer']""}"
+What is the salary of Brittany Hatfield?,119399
+How many years of experience does Brittany Hatfield have?,9
+What department does Brittany Hatfield work in?,HR
+What position does Brittany Hatfield hold?,Developer
+What is Brittany Hatfield's email?,djohnson@example.com
+What is the contact number of Brittany Hatfield?,701.572.0099x251
+When did Brittany Hatfield join the company?,2021-04-25
+Who is the manager of Brittany Hatfield?,Paula Rodriguez
+What is the performance rating of Brittany Hatfield?,1
+How many leaves has Brittany Hatfield taken?,19
+What is the gender of Brittany Hatfield?,Female
+What bonuses has Brittany Hatfield received?,"[1716, 1054, 2931, 3790, 2678]"
+What promotions has Brittany Hatfield received?,"['Best boy', 'Travel agency manager']"
+List all details for Brittany Hatfield.,"{'name': 'Brittany Hatfield', 'department': 'HR', 'position': 'Developer', 'salary': 119399, 'years_experience': 9, 'email': 'djohnson@example.com', 'contact_number': '701.572.0099x251', 'join_date': '2021-04-25', 'manager': 'Paula Rodriguez', 'performance_rating': 1, 'leaves_taken': 19, 'gender': 'Female', 'bonuses': '[1716, 1054, 2931, 3790, 2678]', 'promotions': ""['Best boy', 'Travel agency manager']""}"
+What is the salary of Lisa Peck?,136195
+How many years of experience does Lisa Peck have?,9
+What department does Lisa Peck work in?,Sales
+What position does Lisa Peck hold?,Consultant
+What is Lisa Peck's email?,montesjennifer@example.com
+What is the contact number of Lisa Peck?,(764)518-3067
+When did Lisa Peck join the company?,2022-07-17
+Who is the manager of Lisa Peck?,Mark Huber
+What is the performance rating of Lisa Peck?,2
+How many leaves has Lisa Peck taken?,17
+What is the gender of Lisa Peck?,Male
+What bonuses has Lisa Peck received?,"[4037, 1323, 2375]"
+What promotions has Lisa Peck received?,[]
+List all details for Lisa Peck.,"{'name': 'Lisa Peck', 'department': 'Sales', 'position': 'Consultant', 'salary': 136195, 'years_experience': 9, 'email': 'montesjennifer@example.com', 'contact_number': '(764)518-3067', 'join_date': '2022-07-17', 'manager': 'Mark Huber', 'performance_rating': 2, 'leaves_taken': 17, 'gender': 'Male', 'bonuses': '[4037, 1323, 2375]', 'promotions': '[]'}"
+What is the salary of Amanda Scott?,67673
+How many years of experience does Amanda Scott have?,8
+What department does Amanda Scott work in?,Finance
+What position does Amanda Scott hold?,Developer
+What is Amanda Scott's email?,duffyelizabeth@example.net
+What is the contact number of Amanda Scott?,431.888.6841
+When did Amanda Scott join the company?,2024-06-03
+Who is the manager of Amanda Scott?,Bradley Garcia
+What is the performance rating of Amanda Scott?,4
+How many leaves has Amanda Scott taken?,11
+What is the gender of Amanda Scott?,Female
+What bonuses has Amanda Scott received?,"[2471, 3417, 4878, 4653, 3595]"
+What promotions has Amanda Scott received?,['Biomedical scientist']
+List all details for Amanda Scott.,"{'name': 'Amanda Scott', 'department': 'Finance', 'position': 'Developer', 'salary': 67673, 'years_experience': 8, 'email': 'duffyelizabeth@example.net', 'contact_number': '431.888.6841', 'join_date': '2024-06-03', 'manager': 'Bradley Garcia', 'performance_rating': 4, 'leaves_taken': 11, 'gender': 'Female', 'bonuses': '[2471, 3417, 4878, 4653, 3595]', 'promotions': ""['Biomedical scientist']""}"
+What is the salary of Raymond Navarro?,148105
+How many years of experience does Raymond Navarro have?,14
+What department does Raymond Navarro work in?,Sales
+What position does Raymond Navarro hold?,Consultant
+What is Raymond Navarro's email?,moodyryan@example.com
+What is the contact number of Raymond Navarro?,2757415115
+When did Raymond Navarro join the company?,2020-09-16
+Who is the manager of Raymond Navarro?,Ronald Hall
+What is the performance rating of Raymond Navarro?,1
+How many leaves has Raymond Navarro taken?,0
+What is the gender of Raymond Navarro?,Male
+What bonuses has Raymond Navarro received?,"[2369, 1655, 1980, 1913, 3610]"
+What promotions has Raymond Navarro received?,"['Medical secretary', 'Building services engineer', 'Therapist, occupational']"
+List all details for Raymond Navarro.,"{'name': 'Raymond Navarro', 'department': 'Sales', 'position': 'Consultant', 'salary': 148105, 'years_experience': 14, 'email': 'moodyryan@example.com', 'contact_number': '2757415115', 'join_date': '2020-09-16', 'manager': 'Ronald Hall', 'performance_rating': 1, 'leaves_taken': 0, 'gender': 'Male', 'bonuses': '[2369, 1655, 1980, 1913, 3610]', 'promotions': ""['Medical secretary', 'Building services engineer', 'Therapist, occupational']""}"
+What is the salary of Christine Harris?,104317
+How many years of experience does Christine Harris have?,2
+What department does Christine Harris work in?,Marketing
+What position does Christine Harris hold?,Executive
+What is Christine Harris's email?,adkinskelly@example.net
+What is the contact number of Christine Harris?,6934227175
+When did Christine Harris join the company?,2015-04-08
+Who is the manager of Christine Harris?,Heidi Kennedy
+What is the performance rating of Christine Harris?,4
+How many leaves has Christine Harris taken?,27
+What is the gender of Christine Harris?,Female
+What bonuses has Christine Harris received?,"[3904, 1191, 1678, 2824, 1261]"
+What promotions has Christine Harris received?,"['Horticulturist, commercial', 'Housing manager/officer']"
+List all details for Christine Harris.,"{'name': 'Christine Harris', 'department': 'Marketing', 'position': 'Executive', 'salary': 104317, 'years_experience': 2, 'email': 'adkinskelly@example.net', 'contact_number': '6934227175', 'join_date': '2015-04-08', 'manager': 'Heidi Kennedy', 'performance_rating': 4, 'leaves_taken': 27, 'gender': 'Female', 'bonuses': '[3904, 1191, 1678, 2824, 1261]', 'promotions': ""['Horticulturist, commercial', 'Housing manager/officer']""}"
+What is the salary of Tina Fields?,119150
+How many years of experience does Tina Fields have?,29
+What department does Tina Fields work in?,HR
+What position does Tina Fields hold?,Consultant
+What is Tina Fields's email?,brittanymiller@example.net
+What is the contact number of Tina Fields?,001-542-562-2358
+When did Tina Fields join the company?,2017-12-02
+Who is the manager of Tina Fields?,Jason Williams
+What is the performance rating of Tina Fields?,4
+How many leaves has Tina Fields taken?,29
+What is the gender of Tina Fields?,Male
+What bonuses has Tina Fields received?,[]
+What promotions has Tina Fields received?,"['Consulting civil engineer', 'Tourist information centre manager', 'Advertising art director']"
+List all details for Tina Fields.,"{'name': 'Tina Fields', 'department': 'HR', 'position': 'Consultant', 'salary': 119150, 'years_experience': 29, 'email': 'brittanymiller@example.net', 'contact_number': '001-542-562-2358', 'join_date': '2017-12-02', 'manager': 'Jason Williams', 'performance_rating': 4, 'leaves_taken': 29, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Consulting civil engineer', 'Tourist information centre manager', 'Advertising art director']""}"
+What is the salary of Michael Anderson?,111196
+How many years of experience does Michael Anderson have?,2
+What department does Michael Anderson work in?,Sales
+What position does Michael Anderson hold?,Developer
+What is Michael Anderson's email?,andrea29@example.com
+What is the contact number of Michael Anderson?,951-537-5806x6065
+When did Michael Anderson join the company?,2021-02-11
+Who is the manager of Michael Anderson?,John Clements
+What is the performance rating of Michael Anderson?,4
+How many leaves has Michael Anderson taken?,6
+What is the gender of Michael Anderson?,Male
+What bonuses has Michael Anderson received?,"[1534, 1060, 2645, 4889, 3779]"
+What promotions has Michael Anderson received?,"['Clinical embryologist', 'Health and safety inspector', 'Clinical research associate']"
+List all details for Michael Anderson.,"{'name': 'Michael Anderson', 'department': 'Sales', 'position': 'Developer', 'salary': 111196, 'years_experience': 2, 'email': 'andrea29@example.com', 'contact_number': '951-537-5806x6065', 'join_date': '2021-02-11', 'manager': 'John Clements', 'performance_rating': 4, 'leaves_taken': 6, 'gender': 'Male', 'bonuses': '[1534, 1060, 2645, 4889, 3779]', 'promotions': ""['Clinical embryologist', 'Health and safety inspector', 'Clinical research associate']""}"
+What is the salary of Melissa Flynn?,77987
+How many years of experience does Melissa Flynn have?,1
+What department does Melissa Flynn work in?,Sales
+What position does Melissa Flynn hold?,Manager
+What is Melissa Flynn's email?,lhebert@example.com
+What is the contact number of Melissa Flynn?,(923)975-8257x17340
+When did Melissa Flynn join the company?,2014-12-04
+Who is the manager of Melissa Flynn?,Brian Irwin
+What is the performance rating of Melissa Flynn?,1
+How many leaves has Melissa Flynn taken?,26
+What is the gender of Melissa Flynn?,Male
+What bonuses has Melissa Flynn received?,[1487]
+What promotions has Melissa Flynn received?,['Illustrator']
+List all details for Melissa Flynn.,"{'name': 'Melissa Flynn', 'department': 'Sales', 'position': 'Manager', 'salary': 77987, 'years_experience': 1, 'email': 'lhebert@example.com', 'contact_number': '(923)975-8257x17340', 'join_date': '2014-12-04', 'manager': 'Brian Irwin', 'performance_rating': 1, 'leaves_taken': 26, 'gender': 'Male', 'bonuses': '[1487]', 'promotions': ""['Illustrator']""}"
+What is the salary of Brooke Mccarthy?,140248
+How many years of experience does Brooke Mccarthy have?,6
+What department does Brooke Mccarthy work in?,Sales
+What position does Brooke Mccarthy hold?,Developer
+What is Brooke Mccarthy's email?,fdavis@example.org
+What is the contact number of Brooke Mccarthy?,+1-864-801-4004
+When did Brooke Mccarthy join the company?,2022-05-10
+Who is the manager of Brooke Mccarthy?,David Campbell
+What is the performance rating of Brooke Mccarthy?,1
+How many leaves has Brooke Mccarthy taken?,15
+What is the gender of Brooke Mccarthy?,Female
+What bonuses has Brooke Mccarthy received?,"[1333, 1089, 2125, 4743, 2855]"
+What promotions has Brooke Mccarthy received?,[]
+List all details for Brooke Mccarthy.,"{'name': 'Brooke Mccarthy', 'department': 'Sales', 'position': 'Developer', 'salary': 140248, 'years_experience': 6, 'email': 'fdavis@example.org', 'contact_number': '+1-864-801-4004', 'join_date': '2022-05-10', 'manager': 'David Campbell', 'performance_rating': 1, 'leaves_taken': 15, 'gender': 'Female', 'bonuses': '[1333, 1089, 2125, 4743, 2855]', 'promotions': '[]'}"
+What is the salary of Susan Larson?,135664
+How many years of experience does Susan Larson have?,17
+What department does Susan Larson work in?,Sales
+What position does Susan Larson hold?,Analyst
+What is Susan Larson's email?,jonesjose@example.net
+What is the contact number of Susan Larson?,318-832-1644x82983
+When did Susan Larson join the company?,2024-01-15
+Who is the manager of Susan Larson?,Richard French
+What is the performance rating of Susan Larson?,3
+How many leaves has Susan Larson taken?,3
+What is the gender of Susan Larson?,Male
+What bonuses has Susan Larson received?,"[4486, 1076]"
+What promotions has Susan Larson received?,[]
+List all details for Susan Larson.,"{'name': 'Susan Larson', 'department': 'Sales', 'position': 'Analyst', 'salary': 135664, 'years_experience': 17, 'email': 'jonesjose@example.net', 'contact_number': '318-832-1644x82983', 'join_date': '2024-01-15', 'manager': 'Richard French', 'performance_rating': 3, 'leaves_taken': 3, 'gender': 'Male', 'bonuses': '[4486, 1076]', 'promotions': '[]'}"
+What is the salary of Jacob Fuller?,139259
+How many years of experience does Jacob Fuller have?,9
+What department does Jacob Fuller work in?,IT
+What position does Jacob Fuller hold?,Analyst
+What is Jacob Fuller's email?,davidmartinez@example.com
+What is the contact number of Jacob Fuller?,001-972-984-5763
+When did Jacob Fuller join the company?,2023-04-29
+Who is the manager of Jacob Fuller?,Matthew Brown
+What is the performance rating of Jacob Fuller?,5
+How many leaves has Jacob Fuller taken?,10
+What is the gender of Jacob Fuller?,Female
+What bonuses has Jacob Fuller received?,"[4726, 4479, 1172, 4466]"
+What promotions has Jacob Fuller received?,"['Hydrologist', 'Customer service manager', 'Research scientist (life sciences)']"
+List all details for Jacob Fuller.,"{'name': 'Jacob Fuller', 'department': 'IT', 'position': 'Analyst', 'salary': 139259, 'years_experience': 9, 'email': 'davidmartinez@example.com', 'contact_number': '001-972-984-5763', 'join_date': '2023-04-29', 'manager': 'Matthew Brown', 'performance_rating': 5, 'leaves_taken': 10, 'gender': 'Female', 'bonuses': '[4726, 4479, 1172, 4466]', 'promotions': ""['Hydrologist', 'Customer service manager', 'Research scientist (life sciences)']""}"
+What is the salary of Marc Johnson?,98817
+How many years of experience does Marc Johnson have?,28
+What department does Marc Johnson work in?,Marketing
+What position does Marc Johnson hold?,Consultant
+What is Marc Johnson's email?,amyers@example.net
+What is the contact number of Marc Johnson?,616-605-0190
+When did Marc Johnson join the company?,2018-08-25
+Who is the manager of Marc Johnson?,Kenneth Lee
+What is the performance rating of Marc Johnson?,5
+How many leaves has Marc Johnson taken?,5
+What is the gender of Marc Johnson?,Male
+What bonuses has Marc Johnson received?,"[3404, 2192, 1036]"
+What promotions has Marc Johnson received?,"[""Politician's assistant""]"
+List all details for Marc Johnson.,"{'name': 'Marc Johnson', 'department': 'Marketing', 'position': 'Consultant', 'salary': 98817, 'years_experience': 28, 'email': 'amyers@example.net', 'contact_number': '616-605-0190', 'join_date': '2018-08-25', 'manager': 'Kenneth Lee', 'performance_rating': 5, 'leaves_taken': 5, 'gender': 'Male', 'bonuses': '[3404, 2192, 1036]', 'promotions': '[""Politician\'s assistant""]'}"
+What is the salary of Gary Jackson?,93700
+How many years of experience does Gary Jackson have?,11
+What department does Gary Jackson work in?,HR
+What position does Gary Jackson hold?,Developer
+What is Gary Jackson's email?,rwong@example.com
+What is the contact number of Gary Jackson?,(772)885-2327
+When did Gary Jackson join the company?,2022-01-23
+Who is the manager of Gary Jackson?,Jean Robinson
+What is the performance rating of Gary Jackson?,3
+How many leaves has Gary Jackson taken?,22
+What is the gender of Gary Jackson?,Male
+What bonuses has Gary Jackson received?,"[4192, 3541]"
+What promotions has Gary Jackson received?,[]
+List all details for Gary Jackson.,"{'name': 'Gary Jackson', 'department': 'HR', 'position': 'Developer', 'salary': 93700, 'years_experience': 11, 'email': 'rwong@example.com', 'contact_number': '(772)885-2327', 'join_date': '2022-01-23', 'manager': 'Jean Robinson', 'performance_rating': 3, 'leaves_taken': 22, 'gender': 'Male', 'bonuses': '[4192, 3541]', 'promotions': '[]'}"
+What is the salary of Todd Willis?,71477
+How many years of experience does Todd Willis have?,5
+What department does Todd Willis work in?,IT
+What position does Todd Willis hold?,Developer
+What is Todd Willis's email?,bullockarthur@example.net
+What is the contact number of Todd Willis?,325-602-3949
+When did Todd Willis join the company?,2020-10-18
+Who is the manager of Todd Willis?,Anthony Terry
+What is the performance rating of Todd Willis?,5
+How many leaves has Todd Willis taken?,9
+What is the gender of Todd Willis?,Female
+What bonuses has Todd Willis received?,"[3246, 1531, 2201]"
+What promotions has Todd Willis received?,[]
+List all details for Todd Willis.,"{'name': 'Todd Willis', 'department': 'IT', 'position': 'Developer', 'salary': 71477, 'years_experience': 5, 'email': 'bullockarthur@example.net', 'contact_number': '325-602-3949', 'join_date': '2020-10-18', 'manager': 'Anthony Terry', 'performance_rating': 5, 'leaves_taken': 9, 'gender': 'Female', 'bonuses': '[3246, 1531, 2201]', 'promotions': '[]'}"
+What is the salary of Mariah Payne?,56325
+How many years of experience does Mariah Payne have?,10
+What department does Mariah Payne work in?,Marketing
+What position does Mariah Payne hold?,Analyst
+What is Mariah Payne's email?,fcarpenter@example.com
+What is the contact number of Mariah Payne?,001-273-454-0002x504
+When did Mariah Payne join the company?,2015-11-16
+Who is the manager of Mariah Payne?,Melanie Arellano
+What is the performance rating of Mariah Payne?,2
+How many leaves has Mariah Payne taken?,27
+What is the gender of Mariah Payne?,Male
+What bonuses has Mariah Payne received?,"[2651, 4422]"
+What promotions has Mariah Payne received?,"['Occupational psychologist', 'Surveyor, insurance']"
+List all details for Mariah Payne.,"{'name': 'Mariah Payne', 'department': 'Marketing', 'position': 'Analyst', 'salary': 56325, 'years_experience': 10, 'email': 'fcarpenter@example.com', 'contact_number': '001-273-454-0002x504', 'join_date': '2015-11-16', 'manager': 'Melanie Arellano', 'performance_rating': 2, 'leaves_taken': 27, 'gender': 'Male', 'bonuses': '[2651, 4422]', 'promotions': ""['Occupational psychologist', 'Surveyor, insurance']""}"
+What is the salary of Jody Morgan?,64241
+How many years of experience does Jody Morgan have?,4
+What department does Jody Morgan work in?,Sales
+What position does Jody Morgan hold?,Consultant
+What is Jody Morgan's email?,obrienchristopher@example.com
+What is the contact number of Jody Morgan?,587-554-0803x51385
+When did Jody Morgan join the company?,2019-01-25
+Who is the manager of Jody Morgan?,Nancy Collins
+What is the performance rating of Jody Morgan?,5
+How many leaves has Jody Morgan taken?,29
+What is the gender of Jody Morgan?,Female
+What bonuses has Jody Morgan received?,"[2380, 4444, 4268]"
+What promotions has Jody Morgan received?,"['Music tutor', 'Forest/woodland manager']"
+List all details for Jody Morgan.,"{'name': 'Jody Morgan', 'department': 'Sales', 'position': 'Consultant', 'salary': 64241, 'years_experience': 4, 'email': 'obrienchristopher@example.com', 'contact_number': '587-554-0803x51385', 'join_date': '2019-01-25', 'manager': 'Nancy Collins', 'performance_rating': 5, 'leaves_taken': 29, 'gender': 'Female', 'bonuses': '[2380, 4444, 4268]', 'promotions': ""['Music tutor', 'Forest/woodland manager']""}"
+What is the salary of Dr. David Torres?,65205
+How many years of experience does Dr. David Torres have?,23
+What department does Dr. David Torres work in?,IT
+What position does Dr. David Torres hold?,Consultant
+What is Dr. David Torres's email?,smithtyler@example.com
+What is the contact number of Dr. David Torres?,3674771113
+When did Dr. David Torres join the company?,2021-11-01
+Who is the manager of Dr. David Torres?,Cindy Salazar
+What is the performance rating of Dr. David Torres?,4
+How many leaves has Dr. David Torres taken?,13
+What is the gender of Dr. David Torres?,Male
+What bonuses has Dr. David Torres received?,"[2372, 4009]"
+What promotions has Dr. David Torres received?,['Physiotherapist']
+List all details for Dr. David Torres.,"{'name': 'Dr. David Torres', 'department': 'IT', 'position': 'Consultant', 'salary': 65205, 'years_experience': 23, 'email': 'smithtyler@example.com', 'contact_number': '3674771113', 'join_date': '2021-11-01', 'manager': 'Cindy Salazar', 'performance_rating': 4, 'leaves_taken': 13, 'gender': 'Male', 'bonuses': '[2372, 4009]', 'promotions': ""['Physiotherapist']""}"
+What is the salary of Stacie Foster?,99226
+How many years of experience does Stacie Foster have?,26
+What department does Stacie Foster work in?,HR
+What position does Stacie Foster hold?,Executive
+What is Stacie Foster's email?,johnrobinson@example.com
+What is the contact number of Stacie Foster?,(956)618-4983x478
+When did Stacie Foster join the company?,2019-06-06
+Who is the manager of Stacie Foster?,Bryan Logan
+What is the performance rating of Stacie Foster?,1
+How many leaves has Stacie Foster taken?,2
+What is the gender of Stacie Foster?,Male
+What bonuses has Stacie Foster received?,[4071]
+What promotions has Stacie Foster received?,['Child psychotherapist']
+List all details for Stacie Foster.,"{'name': 'Stacie Foster', 'department': 'HR', 'position': 'Executive', 'salary': 99226, 'years_experience': 26, 'email': 'johnrobinson@example.com', 'contact_number': '(956)618-4983x478', 'join_date': '2019-06-06', 'manager': 'Bryan Logan', 'performance_rating': 1, 'leaves_taken': 2, 'gender': 'Male', 'bonuses': '[4071]', 'promotions': ""['Child psychotherapist']""}"
+What is the salary of Jason Robinson?,51029
+How many years of experience does Jason Robinson have?,4
+What department does Jason Robinson work in?,IT
+What position does Jason Robinson hold?,Consultant
+What is Jason Robinson's email?,harmonzachary@example.org
+What is the contact number of Jason Robinson?,564-519-5384
+When did Jason Robinson join the company?,2015-11-23
+Who is the manager of Jason Robinson?,Megan Hall
+What is the performance rating of Jason Robinson?,4
+How many leaves has Jason Robinson taken?,17
+What is the gender of Jason Robinson?,Female
+What bonuses has Jason Robinson received?,"[4768, 3001, 4228]"
+What promotions has Jason Robinson received?,['Quantity surveyor']
+List all details for Jason Robinson.,"{'name': 'Jason Robinson', 'department': 'IT', 'position': 'Consultant', 'salary': 51029, 'years_experience': 4, 'email': 'harmonzachary@example.org', 'contact_number': '564-519-5384', 'join_date': '2015-11-23', 'manager': 'Megan Hall', 'performance_rating': 4, 'leaves_taken': 17, 'gender': 'Female', 'bonuses': '[4768, 3001, 4228]', 'promotions': ""['Quantity surveyor']""}"
+What is the salary of Christopher Pacheco?,98277
+How many years of experience does Christopher Pacheco have?,8
+What department does Christopher Pacheco work in?,Marketing
+What position does Christopher Pacheco hold?,Manager
+What is Christopher Pacheco's email?,michael02@example.com
+What is the contact number of Christopher Pacheco?,(528)412-3793
+When did Christopher Pacheco join the company?,2018-10-08
+Who is the manager of Christopher Pacheco?,Heather Garza
+What is the performance rating of Christopher Pacheco?,3
+How many leaves has Christopher Pacheco taken?,18
+What is the gender of Christopher Pacheco?,Male
+What bonuses has Christopher Pacheco received?,"[1786, 2468, 1471]"
+What promotions has Christopher Pacheco received?,[]
+List all details for Christopher Pacheco.,"{'name': 'Christopher Pacheco', 'department': 'Marketing', 'position': 'Manager', 'salary': 98277, 'years_experience': 8, 'email': 'michael02@example.com', 'contact_number': '(528)412-3793', 'join_date': '2018-10-08', 'manager': 'Heather Garza', 'performance_rating': 3, 'leaves_taken': 18, 'gender': 'Male', 'bonuses': '[1786, 2468, 1471]', 'promotions': '[]'}"
+What is the salary of Stephanie Rodriguez?,109193
+How many years of experience does Stephanie Rodriguez have?,25
+What department does Stephanie Rodriguez work in?,IT
+What position does Stephanie Rodriguez hold?,Executive
+What is Stephanie Rodriguez's email?,foxmichael@example.com
+What is the contact number of Stephanie Rodriguez?,803-582-7785x1429
+When did Stephanie Rodriguez join the company?,2020-03-05
+Who is the manager of Stephanie Rodriguez?,Janet Brown
+What is the performance rating of Stephanie Rodriguez?,2
+How many leaves has Stephanie Rodriguez taken?,3
+What is the gender of Stephanie Rodriguez?,Female
+What bonuses has Stephanie Rodriguez received?,"[2050, 1848, 3625]"
+What promotions has Stephanie Rodriguez received?,[]
+List all details for Stephanie Rodriguez.,"{'name': 'Stephanie Rodriguez', 'department': 'IT', 'position': 'Executive', 'salary': 109193, 'years_experience': 25, 'email': 'foxmichael@example.com', 'contact_number': '803-582-7785x1429', 'join_date': '2020-03-05', 'manager': 'Janet Brown', 'performance_rating': 2, 'leaves_taken': 3, 'gender': 'Female', 'bonuses': '[2050, 1848, 3625]', 'promotions': '[]'}"
+What is the salary of Nicholas Nixon?,69182
+How many years of experience does Nicholas Nixon have?,4
+What department does Nicholas Nixon work in?,HR
+What position does Nicholas Nixon hold?,Executive
+What is Nicholas Nixon's email?,michelle34@example.com
+What is the contact number of Nicholas Nixon?,+1-524-205-9802x50700
+When did Nicholas Nixon join the company?,2015-01-02
+Who is the manager of Nicholas Nixon?,Matthew Jones
+What is the performance rating of Nicholas Nixon?,2
+How many leaves has Nicholas Nixon taken?,14
+What is the gender of Nicholas Nixon?,Female
+What bonuses has Nicholas Nixon received?,"[3238, 4387]"
+What promotions has Nicholas Nixon received?,['Biomedical engineer']
+List all details for Nicholas Nixon.,"{'name': 'Nicholas Nixon', 'department': 'HR', 'position': 'Executive', 'salary': 69182, 'years_experience': 4, 'email': 'michelle34@example.com', 'contact_number': '+1-524-205-9802x50700', 'join_date': '2015-01-02', 'manager': 'Matthew Jones', 'performance_rating': 2, 'leaves_taken': 14, 'gender': 'Female', 'bonuses': '[3238, 4387]', 'promotions': ""['Biomedical engineer']""}"
+What is the salary of Matthew Taylor?,113950
+How many years of experience does Matthew Taylor have?,5
+What department does Matthew Taylor work in?,IT
+What position does Matthew Taylor hold?,Executive
+What is Matthew Taylor's email?,shanethomas@example.com
+What is the contact number of Matthew Taylor?,(956)260-6488
+When did Matthew Taylor join the company?,2024-05-26
+Who is the manager of Matthew Taylor?,Jennifer Myers
+What is the performance rating of Matthew Taylor?,5
+How many leaves has Matthew Taylor taken?,12
+What is the gender of Matthew Taylor?,Female
+What bonuses has Matthew Taylor received?,"[3029, 3782, 4756, 4636]"
+What promotions has Matthew Taylor received?,"['Accountant, chartered certified', 'Restaurant manager, fast food']"
+List all details for Matthew Taylor.,"{'name': 'Matthew Taylor', 'department': 'IT', 'position': 'Executive', 'salary': 113950, 'years_experience': 5, 'email': 'shanethomas@example.com', 'contact_number': '(956)260-6488', 'join_date': '2024-05-26', 'manager': 'Jennifer Myers', 'performance_rating': 5, 'leaves_taken': 12, 'gender': 'Female', 'bonuses': '[3029, 3782, 4756, 4636]', 'promotions': ""['Accountant, chartered certified', 'Restaurant manager, fast food']""}"
+What is the salary of Sean Palmer?,133239
+How many years of experience does Sean Palmer have?,22
+What department does Sean Palmer work in?,Marketing
+What position does Sean Palmer hold?,Consultant
+What is Sean Palmer's email?,christopheryoung@example.org
+What is the contact number of Sean Palmer?,902.482.1691
+When did Sean Palmer join the company?,2015-06-22
+Who is the manager of Sean Palmer?,Robert Oconnor
+What is the performance rating of Sean Palmer?,2
+How many leaves has Sean Palmer taken?,17
+What is the gender of Sean Palmer?,Male
+What bonuses has Sean Palmer received?,[]
+What promotions has Sean Palmer received?,"['Aid worker', 'Animator']"
+List all details for Sean Palmer.,"{'name': 'Sean Palmer', 'department': 'Marketing', 'position': 'Consultant', 'salary': 133239, 'years_experience': 22, 'email': 'christopheryoung@example.org', 'contact_number': '902.482.1691', 'join_date': '2015-06-22', 'manager': 'Robert Oconnor', 'performance_rating': 2, 'leaves_taken': 17, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Aid worker', 'Animator']""}"
+What is the salary of Ian Powers MD?,54648
+How many years of experience does Ian Powers MD have?,17
+What department does Ian Powers MD work in?,Sales
+What position does Ian Powers MD hold?,Developer
+What is Ian Powers MD's email?,francis65@example.com
+What is the contact number of Ian Powers MD?,260.948.4870x8984
+When did Ian Powers MD join the company?,2021-07-06
+Who is the manager of Ian Powers MD?,Jennifer Crawford
+What is the performance rating of Ian Powers MD?,2
+How many leaves has Ian Powers MD taken?,27
+What is the gender of Ian Powers MD?,Female
+What bonuses has Ian Powers MD received?,"[4211, 1638, 4450, 2552]"
+What promotions has Ian Powers MD received?,"['Advertising art director', 'Government social research officer']"
+List all details for Ian Powers MD.,"{'name': 'Ian Powers MD', 'department': 'Sales', 'position': 'Developer', 'salary': 54648, 'years_experience': 17, 'email': 'francis65@example.com', 'contact_number': '260.948.4870x8984', 'join_date': '2021-07-06', 'manager': 'Jennifer Crawford', 'performance_rating': 2, 'leaves_taken': 27, 'gender': 'Female', 'bonuses': '[4211, 1638, 4450, 2552]', 'promotions': ""['Advertising art director', 'Government social research officer']""}"
+What is the salary of Amanda Becker?,61094
+How many years of experience does Amanda Becker have?,17
+What department does Amanda Becker work in?,Marketing
+What position does Amanda Becker hold?,Manager
+What is Amanda Becker's email?,wanda38@example.net
+What is the contact number of Amanda Becker?,264-231-9539x85225
+When did Amanda Becker join the company?,2024-05-26
+Who is the manager of Amanda Becker?,Gregory Carter
+What is the performance rating of Amanda Becker?,1
+How many leaves has Amanda Becker taken?,2
+What is the gender of Amanda Becker?,Male
+What bonuses has Amanda Becker received?,[1166]
+What promotions has Amanda Becker received?,"['Hospital doctor', 'IT trainer']"
+List all details for Amanda Becker.,"{'name': 'Amanda Becker', 'department': 'Marketing', 'position': 'Manager', 'salary': 61094, 'years_experience': 17, 'email': 'wanda38@example.net', 'contact_number': '264-231-9539x85225', 'join_date': '2024-05-26', 'manager': 'Gregory Carter', 'performance_rating': 1, 'leaves_taken': 2, 'gender': 'Male', 'bonuses': '[1166]', 'promotions': ""['Hospital doctor', 'IT trainer']""}"
+What is the salary of Jamie Jordan Jr.?,93331
+How many years of experience does Jamie Jordan Jr. have?,28
+What department does Jamie Jordan Jr. work in?,IT
+What position does Jamie Jordan Jr. hold?,Consultant
+What is Jamie Jordan Jr.'s email?,ashleyramos@example.com
+What is the contact number of Jamie Jordan Jr.?,4744931864
+When did Jamie Jordan Jr. join the company?,2015-11-14
+Who is the manager of Jamie Jordan Jr.?,Brooke Rodriguez
+What is the performance rating of Jamie Jordan Jr.?,2
+How many leaves has Jamie Jordan Jr. taken?,25
+What is the gender of Jamie Jordan Jr.?,Male
+What bonuses has Jamie Jordan Jr. received?,"[2887, 4967, 2520, 3068, 2565]"
+What promotions has Jamie Jordan Jr. received?,[]
+List all details for Jamie Jordan Jr..,"{'name': 'Jamie Jordan Jr.', 'department': 'IT', 'position': 'Consultant', 'salary': 93331, 'years_experience': 28, 'email': 'ashleyramos@example.com', 'contact_number': '4744931864', 'join_date': '2015-11-14', 'manager': 'Brooke Rodriguez', 'performance_rating': 2, 'leaves_taken': 25, 'gender': 'Male', 'bonuses': '[2887, 4967, 2520, 3068, 2565]', 'promotions': '[]'}"
+What is the salary of Rebecca Jacobs?,138941
+How many years of experience does Rebecca Jacobs have?,26
+What department does Rebecca Jacobs work in?,Finance
+What position does Rebecca Jacobs hold?,Manager
+What is Rebecca Jacobs's email?,sbaker@example.org
+What is the contact number of Rebecca Jacobs?,(844)788-8553x62082
+When did Rebecca Jacobs join the company?,2022-09-09
+Who is the manager of Rebecca Jacobs?,Kristina Jenkins
+What is the performance rating of Rebecca Jacobs?,5
+How many leaves has Rebecca Jacobs taken?,24
+What is the gender of Rebecca Jacobs?,Male
+What bonuses has Rebecca Jacobs received?,"[2746, 4710, 4090, 1844, 2186]"
+What promotions has Rebecca Jacobs received?,"['Visual merchandiser', 'Estate agent', 'Administrator, sports']"
+List all details for Rebecca Jacobs.,"{'name': 'Rebecca Jacobs', 'department': 'Finance', 'position': 'Manager', 'salary': 138941, 'years_experience': 26, 'email': 'sbaker@example.org', 'contact_number': '(844)788-8553x62082', 'join_date': '2022-09-09', 'manager': 'Kristina Jenkins', 'performance_rating': 5, 'leaves_taken': 24, 'gender': 'Male', 'bonuses': '[2746, 4710, 4090, 1844, 2186]', 'promotions': ""['Visual merchandiser', 'Estate agent', 'Administrator, sports']""}"
+What is the salary of William Moore?,129617
+How many years of experience does William Moore have?,19
+What department does William Moore work in?,Marketing
+What position does William Moore hold?,Consultant
+What is William Moore's email?,crystalburton@example.com
+What is the contact number of William Moore?,9395342619
+When did William Moore join the company?,2022-06-11
+Who is the manager of William Moore?,Stephanie Patrick
+What is the performance rating of William Moore?,2
+How many leaves has William Moore taken?,27
+What is the gender of William Moore?,Male
+What bonuses has William Moore received?,"[4626, 1000, 4034, 1745, 2238]"
+What promotions has William Moore received?,"['Chiropodist', 'Emergency planning/management officer']"
+List all details for William Moore.,"{'name': 'William Moore', 'department': 'Marketing', 'position': 'Consultant', 'salary': 129617, 'years_experience': 19, 'email': 'crystalburton@example.com', 'contact_number': '9395342619', 'join_date': '2022-06-11', 'manager': 'Stephanie Patrick', 'performance_rating': 2, 'leaves_taken': 27, 'gender': 'Male', 'bonuses': '[4626, 1000, 4034, 1745, 2238]', 'promotions': ""['Chiropodist', 'Emergency planning/management officer']""}"
+What is the salary of Thomas Reilly?,114685
+How many years of experience does Thomas Reilly have?,28
+What department does Thomas Reilly work in?,Sales
+What position does Thomas Reilly hold?,Manager
+What is Thomas Reilly's email?,qshepard@example.com
+What is the contact number of Thomas Reilly?,001-859-251-4070x43666
+When did Thomas Reilly join the company?,2024-09-14
+Who is the manager of Thomas Reilly?,Ronald Martinez
+What is the performance rating of Thomas Reilly?,3
+How many leaves has Thomas Reilly taken?,30
+What is the gender of Thomas Reilly?,Female
+What bonuses has Thomas Reilly received?,"[2573, 4317, 2571]"
+What promotions has Thomas Reilly received?,[]
+List all details for Thomas Reilly.,"{'name': 'Thomas Reilly', 'department': 'Sales', 'position': 'Manager', 'salary': 114685, 'years_experience': 28, 'email': 'qshepard@example.com', 'contact_number': '001-859-251-4070x43666', 'join_date': '2024-09-14', 'manager': 'Ronald Martinez', 'performance_rating': 3, 'leaves_taken': 30, 'gender': 'Female', 'bonuses': '[2573, 4317, 2571]', 'promotions': '[]'}"
+What is the salary of Erin Johnson?,81319
+How many years of experience does Erin Johnson have?,10
+What department does Erin Johnson work in?,HR
+What position does Erin Johnson hold?,Analyst
+What is Erin Johnson's email?,imccall@example.org
+What is the contact number of Erin Johnson?,995-250-1318
+When did Erin Johnson join the company?,2020-02-22
+Who is the manager of Erin Johnson?,Sarah Landry
+What is the performance rating of Erin Johnson?,3
+How many leaves has Erin Johnson taken?,1
+What is the gender of Erin Johnson?,Male
+What bonuses has Erin Johnson received?,"[2711, 1577, 3014]"
+What promotions has Erin Johnson received?,[]
+List all details for Erin Johnson.,"{'name': 'Erin Johnson', 'department': 'HR', 'position': 'Analyst', 'salary': 81319, 'years_experience': 10, 'email': 'imccall@example.org', 'contact_number': '995-250-1318', 'join_date': '2020-02-22', 'manager': 'Sarah Landry', 'performance_rating': 3, 'leaves_taken': 1, 'gender': 'Male', 'bonuses': '[2711, 1577, 3014]', 'promotions': '[]'}"
+What is the salary of Taylor Joyce?,103888
+How many years of experience does Taylor Joyce have?,2
+What department does Taylor Joyce work in?,HR
+What position does Taylor Joyce hold?,Developer
+What is Taylor Joyce's email?,richard29@example.org
+What is the contact number of Taylor Joyce?,(448)702-2270x8086
+When did Taylor Joyce join the company?,2024-10-04
+Who is the manager of Taylor Joyce?,Angela Thompson
+What is the performance rating of Taylor Joyce?,5
+How many leaves has Taylor Joyce taken?,14
+What is the gender of Taylor Joyce?,Female
+What bonuses has Taylor Joyce received?,"[1192, 1415, 2928]"
+What promotions has Taylor Joyce received?,['Geochemist']
+List all details for Taylor Joyce.,"{'name': 'Taylor Joyce', 'department': 'HR', 'position': 'Developer', 'salary': 103888, 'years_experience': 2, 'email': 'richard29@example.org', 'contact_number': '(448)702-2270x8086', 'join_date': '2024-10-04', 'manager': 'Angela Thompson', 'performance_rating': 5, 'leaves_taken': 14, 'gender': 'Female', 'bonuses': '[1192, 1415, 2928]', 'promotions': ""['Geochemist']""}"
+What is the salary of Dean Graves?,128420
+How many years of experience does Dean Graves have?,20
+What department does Dean Graves work in?,IT
+What position does Dean Graves hold?,Manager
+What is Dean Graves's email?,kimberly87@example.org
+What is the contact number of Dean Graves?,001-578-920-9280x51379
+When did Dean Graves join the company?,2023-09-05
+Who is the manager of Dean Graves?,Gene Rios
+What is the performance rating of Dean Graves?,2
+How many leaves has Dean Graves taken?,20
+What is the gender of Dean Graves?,Female
+What bonuses has Dean Graves received?,[]
+What promotions has Dean Graves received?,"['Publishing copy', 'Surveyor, commercial/residential']"
+List all details for Dean Graves.,"{'name': 'Dean Graves', 'department': 'IT', 'position': 'Manager', 'salary': 128420, 'years_experience': 20, 'email': 'kimberly87@example.org', 'contact_number': '001-578-920-9280x51379', 'join_date': '2023-09-05', 'manager': 'Gene Rios', 'performance_rating': 2, 'leaves_taken': 20, 'gender': 'Female', 'bonuses': '[]', 'promotions': ""['Publishing copy', 'Surveyor, commercial/residential']""}"
+What is the salary of Bradley Holmes?,114267
+How many years of experience does Bradley Holmes have?,4
+What department does Bradley Holmes work in?,HR
+What position does Bradley Holmes hold?,Consultant
+What is Bradley Holmes's email?,hesschristopher@example.com
+What is the contact number of Bradley Holmes?,+1-459-475-6851x250
+When did Bradley Holmes join the company?,2015-02-13
+Who is the manager of Bradley Holmes?,Lawrence Williams
+What is the performance rating of Bradley Holmes?,1
+How many leaves has Bradley Holmes taken?,19
+What is the gender of Bradley Holmes?,Female
+What bonuses has Bradley Holmes received?,"[3589, 4825, 2383, 3664]"
+What promotions has Bradley Holmes received?,[]
+List all details for Bradley Holmes.,"{'name': 'Bradley Holmes', 'department': 'HR', 'position': 'Consultant', 'salary': 114267, 'years_experience': 4, 'email': 'hesschristopher@example.com', 'contact_number': '+1-459-475-6851x250', 'join_date': '2015-02-13', 'manager': 'Lawrence Williams', 'performance_rating': 1, 'leaves_taken': 19, 'gender': 'Female', 'bonuses': '[3589, 4825, 2383, 3664]', 'promotions': '[]'}"
+What is the salary of Melissa Robles?,66660
+How many years of experience does Melissa Robles have?,30
+What department does Melissa Robles work in?,Finance
+What position does Melissa Robles hold?,Developer
+What is Melissa Robles's email?,burkelaura@example.org
+What is the contact number of Melissa Robles?,(816)407-5994x497
+When did Melissa Robles join the company?,2015-04-25
+Who is the manager of Melissa Robles?,Dennis Avery
+What is the performance rating of Melissa Robles?,4
+How many leaves has Melissa Robles taken?,25
+What is the gender of Melissa Robles?,Female
+What bonuses has Melissa Robles received?,"[4573, 4922, 3789, 4318, 1497]"
+What promotions has Melissa Robles received?,['Bonds trader']
+List all details for Melissa Robles.,"{'name': 'Melissa Robles', 'department': 'Finance', 'position': 'Developer', 'salary': 66660, 'years_experience': 30, 'email': 'burkelaura@example.org', 'contact_number': '(816)407-5994x497', 'join_date': '2015-04-25', 'manager': 'Dennis Avery', 'performance_rating': 4, 'leaves_taken': 25, 'gender': 'Female', 'bonuses': '[4573, 4922, 3789, 4318, 1497]', 'promotions': ""['Bonds trader']""}"
+What is the salary of Caleb Bell?,108271
+How many years of experience does Caleb Bell have?,12
+What department does Caleb Bell work in?,IT
+What position does Caleb Bell hold?,Consultant
+What is Caleb Bell's email?,richardvaughn@example.org
+What is the contact number of Caleb Bell?,778-777-1086x40811
+When did Caleb Bell join the company?,2016-06-19
+Who is the manager of Caleb Bell?,Andrew Stout
+What is the performance rating of Caleb Bell?,2
+How many leaves has Caleb Bell taken?,14
+What is the gender of Caleb Bell?,Female
+What bonuses has Caleb Bell received?,"[1308, 4917, 1182, 4694, 4826]"
+What promotions has Caleb Bell received?,[]
+List all details for Caleb Bell.,"{'name': 'Caleb Bell', 'department': 'IT', 'position': 'Consultant', 'salary': 108271, 'years_experience': 12, 'email': 'richardvaughn@example.org', 'contact_number': '778-777-1086x40811', 'join_date': '2016-06-19', 'manager': 'Andrew Stout', 'performance_rating': 2, 'leaves_taken': 14, 'gender': 'Female', 'bonuses': '[1308, 4917, 1182, 4694, 4826]', 'promotions': '[]'}"
+What is the salary of Donna Johnson?,53493
+How many years of experience does Donna Johnson have?,17
+What department does Donna Johnson work in?,Marketing
+What position does Donna Johnson hold?,Developer
+What is Donna Johnson's email?,jmorgan@example.net
+What is the contact number of Donna Johnson?,(822)223-9507
+When did Donna Johnson join the company?,2018-08-23
+Who is the manager of Donna Johnson?,Douglas Jackson
+What is the performance rating of Donna Johnson?,5
+How many leaves has Donna Johnson taken?,18
+What is the gender of Donna Johnson?,Male
+What bonuses has Donna Johnson received?,[1382]
+What promotions has Donna Johnson received?,"['Field seismologist', 'Management consultant', 'Equities trader']"
+List all details for Donna Johnson.,"{'name': 'Donna Johnson', 'department': 'Marketing', 'position': 'Developer', 'salary': 53493, 'years_experience': 17, 'email': 'jmorgan@example.net', 'contact_number': '(822)223-9507', 'join_date': '2018-08-23', 'manager': 'Douglas Jackson', 'performance_rating': 5, 'leaves_taken': 18, 'gender': 'Male', 'bonuses': '[1382]', 'promotions': ""['Field seismologist', 'Management consultant', 'Equities trader']""}"
+What is the salary of Jason Cox?,64869
+How many years of experience does Jason Cox have?,5
+What department does Jason Cox work in?,Finance
+What position does Jason Cox hold?,Developer
+What is Jason Cox's email?,paultownsend@example.org
+What is the contact number of Jason Cox?,001-206-222-0058
+When did Jason Cox join the company?,2015-08-06
+Who is the manager of Jason Cox?,Ashley Carr
+What is the performance rating of Jason Cox?,4
+How many leaves has Jason Cox taken?,28
+What is the gender of Jason Cox?,Female
+What bonuses has Jason Cox received?,[]
+What promotions has Jason Cox received?,[]
+List all details for Jason Cox.,"{'name': 'Jason Cox', 'department': 'Finance', 'position': 'Developer', 'salary': 64869, 'years_experience': 5, 'email': 'paultownsend@example.org', 'contact_number': '001-206-222-0058', 'join_date': '2015-08-06', 'manager': 'Ashley Carr', 'performance_rating': 4, 'leaves_taken': 28, 'gender': 'Female', 'bonuses': '[]', 'promotions': '[]'}"
+What is the salary of Megan James?,63003
+How many years of experience does Megan James have?,14
+What department does Megan James work in?,Marketing
+What position does Megan James hold?,Manager
+What is Megan James's email?,barnesashley@example.net
+What is the contact number of Megan James?,832-858-3861x26951
+When did Megan James join the company?,2018-12-21
+Who is the manager of Megan James?,Danny Foster
+What is the performance rating of Megan James?,2
+How many leaves has Megan James taken?,23
+What is the gender of Megan James?,Male
+What bonuses has Megan James received?,"[2765, 3811, 2708]"
+What promotions has Megan James received?,[]
+List all details for Megan James.,"{'name': 'Megan James', 'department': 'Marketing', 'position': 'Manager', 'salary': 63003, 'years_experience': 14, 'email': 'barnesashley@example.net', 'contact_number': '832-858-3861x26951', 'join_date': '2018-12-21', 'manager': 'Danny Foster', 'performance_rating': 2, 'leaves_taken': 23, 'gender': 'Male', 'bonuses': '[2765, 3811, 2708]', 'promotions': '[]'}"
+What is the salary of Jennifer Perkins?,144705
+How many years of experience does Jennifer Perkins have?,9
+What department does Jennifer Perkins work in?,Marketing
+What position does Jennifer Perkins hold?,Developer
+What is Jennifer Perkins's email?,whitney85@example.net
+What is the contact number of Jennifer Perkins?,8993734095
+When did Jennifer Perkins join the company?,2023-11-20
+Who is the manager of Jennifer Perkins?,Amber Reeves
+What is the performance rating of Jennifer Perkins?,1
+How many leaves has Jennifer Perkins taken?,11
+What is the gender of Jennifer Perkins?,Male
+What bonuses has Jennifer Perkins received?,[]
+What promotions has Jennifer Perkins received?,"['Aid worker', 'Pharmacist, community']"
+List all details for Jennifer Perkins.,"{'name': 'Jennifer Perkins', 'department': 'Marketing', 'position': 'Developer', 'salary': 144705, 'years_experience': 9, 'email': 'whitney85@example.net', 'contact_number': '8993734095', 'join_date': '2023-11-20', 'manager': 'Amber Reeves', 'performance_rating': 1, 'leaves_taken': 11, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Aid worker', 'Pharmacist, community']""}"
+What is the salary of Vanessa Hamilton?,95597
+How many years of experience does Vanessa Hamilton have?,6
+What department does Vanessa Hamilton work in?,IT
+What position does Vanessa Hamilton hold?,Developer
+What is Vanessa Hamilton's email?,reevescassandra@example.org
+What is the contact number of Vanessa Hamilton?,(757)762-9481
+When did Vanessa Hamilton join the company?,2017-03-21
+Who is the manager of Vanessa Hamilton?,Pamela Mccoy
+What is the performance rating of Vanessa Hamilton?,1
+How many leaves has Vanessa Hamilton taken?,26
+What is the gender of Vanessa Hamilton?,Male
+What bonuses has Vanessa Hamilton received?,"[1288, 3443]"
+What promotions has Vanessa Hamilton received?,['Audiological scientist']
+List all details for Vanessa Hamilton.,"{'name': 'Vanessa Hamilton', 'department': 'IT', 'position': 'Developer', 'salary': 95597, 'years_experience': 6, 'email': 'reevescassandra@example.org', 'contact_number': '(757)762-9481', 'join_date': '2017-03-21', 'manager': 'Pamela Mccoy', 'performance_rating': 1, 'leaves_taken': 26, 'gender': 'Male', 'bonuses': '[1288, 3443]', 'promotions': ""['Audiological scientist']""}"
+What is the salary of Tyler Thompson?,76842
+How many years of experience does Tyler Thompson have?,22
+What department does Tyler Thompson work in?,HR
+What position does Tyler Thompson hold?,Manager
+What is Tyler Thompson's email?,kenneth04@example.net
+What is the contact number of Tyler Thompson?,(806)846-3522x19520
+When did Tyler Thompson join the company?,2022-09-05
+Who is the manager of Tyler Thompson?,Michael Becker
+What is the performance rating of Tyler Thompson?,1
+How many leaves has Tyler Thompson taken?,23
+What is the gender of Tyler Thompson?,Male
+What bonuses has Tyler Thompson received?,"[2511, 3824]"
+What promotions has Tyler Thompson received?,[]
+List all details for Tyler Thompson.,"{'name': 'Tyler Thompson', 'department': 'HR', 'position': 'Manager', 'salary': 76842, 'years_experience': 22, 'email': 'kenneth04@example.net', 'contact_number': '(806)846-3522x19520', 'join_date': '2022-09-05', 'manager': 'Michael Becker', 'performance_rating': 1, 'leaves_taken': 23, 'gender': 'Male', 'bonuses': '[2511, 3824]', 'promotions': '[]'}"
+What is the salary of Kimberly Spencer?,68597
+How many years of experience does Kimberly Spencer have?,6
+What department does Kimberly Spencer work in?,Finance
+What position does Kimberly Spencer hold?,Analyst
+What is Kimberly Spencer's email?,ericmartin@example.org
+What is the contact number of Kimberly Spencer?,427.859.4516x42585
+When did Kimberly Spencer join the company?,2024-03-29
+Who is the manager of Kimberly Spencer?,Spencer Riddle
+What is the performance rating of Kimberly Spencer?,4
+How many leaves has Kimberly Spencer taken?,3
+What is the gender of Kimberly Spencer?,Female
+What bonuses has Kimberly Spencer received?,"[3897, 4928]"
+What promotions has Kimberly Spencer received?,"['Logistics and distribution manager', 'Newspaper journalist']"
+List all details for Kimberly Spencer.,"{'name': 'Kimberly Spencer', 'department': 'Finance', 'position': 'Analyst', 'salary': 68597, 'years_experience': 6, 'email': 'ericmartin@example.org', 'contact_number': '427.859.4516x42585', 'join_date': '2024-03-29', 'manager': 'Spencer Riddle', 'performance_rating': 4, 'leaves_taken': 3, 'gender': 'Female', 'bonuses': '[3897, 4928]', 'promotions': ""['Logistics and distribution manager', 'Newspaper journalist']""}"
+What is the salary of Kayla Oconnell?,77278
+How many years of experience does Kayla Oconnell have?,12
+What department does Kayla Oconnell work in?,HR
+What position does Kayla Oconnell hold?,Manager
+What is Kayla Oconnell's email?,rhess@example.org
+What is the contact number of Kayla Oconnell?,(309)698-1399
+When did Kayla Oconnell join the company?,2017-08-29
+Who is the manager of Kayla Oconnell?,Ricky Smith
+What is the performance rating of Kayla Oconnell?,3
+How many leaves has Kayla Oconnell taken?,15
+What is the gender of Kayla Oconnell?,Female
+What bonuses has Kayla Oconnell received?,"[4838, 4597]"
+What promotions has Kayla Oconnell received?,"['Medical illustrator', 'Quarry manager']"
+List all details for Kayla Oconnell.,"{'name': 'Kayla Oconnell', 'department': 'HR', 'position': 'Manager', 'salary': 77278, 'years_experience': 12, 'email': 'rhess@example.org', 'contact_number': '(309)698-1399', 'join_date': '2017-08-29', 'manager': 'Ricky Smith', 'performance_rating': 3, 'leaves_taken': 15, 'gender': 'Female', 'bonuses': '[4838, 4597]', 'promotions': ""['Medical illustrator', 'Quarry manager']""}"
+What is the salary of Michael Wood?,60591
+How many years of experience does Michael Wood have?,4
+What department does Michael Wood work in?,HR
+What position does Michael Wood hold?,Executive
+What is Michael Wood's email?,elizabeth32@example.net
+What is the contact number of Michael Wood?,+1-518-920-2869
+When did Michael Wood join the company?,2021-09-06
+Who is the manager of Michael Wood?,Kevin Gillespie
+What is the performance rating of Michael Wood?,5
+How many leaves has Michael Wood taken?,18
+What is the gender of Michael Wood?,Female
+What bonuses has Michael Wood received?,[2542]
+What promotions has Michael Wood received?,['Dramatherapist']
+List all details for Michael Wood.,"{'name': 'Michael Wood', 'department': 'HR', 'position': 'Executive', 'salary': 60591, 'years_experience': 4, 'email': 'elizabeth32@example.net', 'contact_number': '+1-518-920-2869', 'join_date': '2021-09-06', 'manager': 'Kevin Gillespie', 'performance_rating': 5, 'leaves_taken': 18, 'gender': 'Female', 'bonuses': '[2542]', 'promotions': ""['Dramatherapist']""}"
+What is the salary of Krystal Hendricks?,91404
+How many years of experience does Krystal Hendricks have?,17
+What department does Krystal Hendricks work in?,HR
+What position does Krystal Hendricks hold?,Analyst
+What is Krystal Hendricks's email?,schneiderrichard@example.org
+What is the contact number of Krystal Hendricks?,570.779.1487x86742
+When did Krystal Hendricks join the company?,2017-07-04
+Who is the manager of Krystal Hendricks?,Lee Rangel
+What is the performance rating of Krystal Hendricks?,2
+How many leaves has Krystal Hendricks taken?,7
+What is the gender of Krystal Hendricks?,Male
+What bonuses has Krystal Hendricks received?,"[2525, 2719]"
+What promotions has Krystal Hendricks received?,[]
+List all details for Krystal Hendricks.,"{'name': 'Krystal Hendricks', 'department': 'HR', 'position': 'Analyst', 'salary': 91404, 'years_experience': 17, 'email': 'schneiderrichard@example.org', 'contact_number': '570.779.1487x86742', 'join_date': '2017-07-04', 'manager': 'Lee Rangel', 'performance_rating': 2, 'leaves_taken': 7, 'gender': 'Male', 'bonuses': '[2525, 2719]', 'promotions': '[]'}"
+What is the salary of Victor Mendoza?,52693
+How many years of experience does Victor Mendoza have?,13
+What department does Victor Mendoza work in?,HR
+What position does Victor Mendoza hold?,Executive
+What is Victor Mendoza's email?,qhawkins@example.com
+What is the contact number of Victor Mendoza?,514.225.1202
+When did Victor Mendoza join the company?,2015-05-10
+Who is the manager of Victor Mendoza?,Kristin Campos
+What is the performance rating of Victor Mendoza?,1
+How many leaves has Victor Mendoza taken?,22
+What is the gender of Victor Mendoza?,Male
+What bonuses has Victor Mendoza received?,[2721]
+What promotions has Victor Mendoza received?,"['Recycling officer', 'Clinical biochemist']"
+List all details for Victor Mendoza.,"{'name': 'Victor Mendoza', 'department': 'HR', 'position': 'Executive', 'salary': 52693, 'years_experience': 13, 'email': 'qhawkins@example.com', 'contact_number': '514.225.1202', 'join_date': '2015-05-10', 'manager': 'Kristin Campos', 'performance_rating': 1, 'leaves_taken': 22, 'gender': 'Male', 'bonuses': '[2721]', 'promotions': ""['Recycling officer', 'Clinical biochemist']""}"
+What is the salary of Kristin Baxter?,147108
+How many years of experience does Kristin Baxter have?,30
+What department does Kristin Baxter work in?,Finance
+What position does Kristin Baxter hold?,Consultant
+What is Kristin Baxter's email?,monique03@example.org
+What is the contact number of Kristin Baxter?,844.530.7585x1149
+When did Kristin Baxter join the company?,2021-01-16
+Who is the manager of Kristin Baxter?,Shannon Thomas
+What is the performance rating of Kristin Baxter?,2
+How many leaves has Kristin Baxter taken?,18
+What is the gender of Kristin Baxter?,Female
+What bonuses has Kristin Baxter received?,"[3609, 2452]"
+What promotions has Kristin Baxter received?,[]
+List all details for Kristin Baxter.,"{'name': 'Kristin Baxter', 'department': 'Finance', 'position': 'Consultant', 'salary': 147108, 'years_experience': 30, 'email': 'monique03@example.org', 'contact_number': '844.530.7585x1149', 'join_date': '2021-01-16', 'manager': 'Shannon Thomas', 'performance_rating': 2, 'leaves_taken': 18, 'gender': 'Female', 'bonuses': '[3609, 2452]', 'promotions': '[]'}"
+What is the salary of Curtis Parsons?,132939
+How many years of experience does Curtis Parsons have?,12
+What department does Curtis Parsons work in?,HR
+What position does Curtis Parsons hold?,Consultant
+What is Curtis Parsons's email?,justin92@example.org
+What is the contact number of Curtis Parsons?,(958)673-5564x5641
+When did Curtis Parsons join the company?,2016-11-04
+Who is the manager of Curtis Parsons?,Gregory Sanchez
+What is the performance rating of Curtis Parsons?,5
+How many leaves has Curtis Parsons taken?,1
+What is the gender of Curtis Parsons?,Female
+What bonuses has Curtis Parsons received?,"[1034, 2708, 4940]"
+What promotions has Curtis Parsons received?,"['Embryologist, clinical', 'Lexicographer']"
+List all details for Curtis Parsons.,"{'name': 'Curtis Parsons', 'department': 'HR', 'position': 'Consultant', 'salary': 132939, 'years_experience': 12, 'email': 'justin92@example.org', 'contact_number': '(958)673-5564x5641', 'join_date': '2016-11-04', 'manager': 'Gregory Sanchez', 'performance_rating': 5, 'leaves_taken': 1, 'gender': 'Female', 'bonuses': '[1034, 2708, 4940]', 'promotions': ""['Embryologist, clinical', 'Lexicographer']""}"
+What is the salary of Mr. James Price MD?,98705
+How many years of experience does Mr. James Price MD have?,10
+What department does Mr. James Price MD work in?,Marketing
+What position does Mr. James Price MD hold?,Analyst
+What is Mr. James Price MD's email?,emmashaw@example.com
+What is the contact number of Mr. James Price MD?,858.201.7563
+When did Mr. James Price MD join the company?,2024-07-31
+Who is the manager of Mr. James Price MD?,Jennifer Baker
+What is the performance rating of Mr. James Price MD?,4
+How many leaves has Mr. James Price MD taken?,2
+What is the gender of Mr. James Price MD?,Male
+What bonuses has Mr. James Price MD received?,[]
+What promotions has Mr. James Price MD received?,"['Journalist, newspaper', 'Editor, magazine features']"
+List all details for Mr. James Price MD.,"{'name': 'Mr. James Price MD', 'department': 'Marketing', 'position': 'Analyst', 'salary': 98705, 'years_experience': 10, 'email': 'emmashaw@example.com', 'contact_number': '858.201.7563', 'join_date': '2024-07-31', 'manager': 'Jennifer Baker', 'performance_rating': 4, 'leaves_taken': 2, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Journalist, newspaper', 'Editor, magazine features']""}"
+What is the salary of Robert Diaz?,129370
+How many years of experience does Robert Diaz have?,23
+What department does Robert Diaz work in?,IT
+What position does Robert Diaz hold?,Executive
+What is Robert Diaz's email?,stephaniesmith@example.net
+What is the contact number of Robert Diaz?,2218993173
+When did Robert Diaz join the company?,2015-12-05
+Who is the manager of Robert Diaz?,Tammy Perez
+What is the performance rating of Robert Diaz?,2
+How many leaves has Robert Diaz taken?,25
+What is the gender of Robert Diaz?,Female
+What bonuses has Robert Diaz received?,"[1759, 4144, 2727]"
+What promotions has Robert Diaz received?,"['Pathologist', 'Museum/gallery exhibitions officer', 'Public relations officer']"
+List all details for Robert Diaz.,"{'name': 'Robert Diaz', 'department': 'IT', 'position': 'Executive', 'salary': 129370, 'years_experience': 23, 'email': 'stephaniesmith@example.net', 'contact_number': '2218993173', 'join_date': '2015-12-05', 'manager': 'Tammy Perez', 'performance_rating': 2, 'leaves_taken': 25, 'gender': 'Female', 'bonuses': '[1759, 4144, 2727]', 'promotions': ""['Pathologist', 'Museum/gallery exhibitions officer', 'Public relations officer']""}"
+What is the salary of Jessica James?,109434
+How many years of experience does Jessica James have?,11
+What department does Jessica James work in?,HR
+What position does Jessica James hold?,Analyst
+What is Jessica James's email?,gilbertjoseph@example.net
+What is the contact number of Jessica James?,(255)472-9814x114
+When did Jessica James join the company?,2017-02-07
+Who is the manager of Jessica James?,Kenneth Keller
+What is the performance rating of Jessica James?,5
+How many leaves has Jessica James taken?,4
+What is the gender of Jessica James?,Female
+What bonuses has Jessica James received?,"[3586, 3610, 1354]"
+What promotions has Jessica James received?,"['Engineer, drilling', 'Pharmacist, community', 'Rural practice surveyor']"
+List all details for Jessica James.,"{'name': 'Jessica James', 'department': 'HR', 'position': 'Analyst', 'salary': 109434, 'years_experience': 11, 'email': 'gilbertjoseph@example.net', 'contact_number': '(255)472-9814x114', 'join_date': '2017-02-07', 'manager': 'Kenneth Keller', 'performance_rating': 5, 'leaves_taken': 4, 'gender': 'Female', 'bonuses': '[3586, 3610, 1354]', 'promotions': ""['Engineer, drilling', 'Pharmacist, community', 'Rural practice surveyor']""}"
+What is the salary of Kristin Steele?,50241
+How many years of experience does Kristin Steele have?,27
+What department does Kristin Steele work in?,HR
+What position does Kristin Steele hold?,Developer
+What is Kristin Steele's email?,cmartinez@example.com
+What is the contact number of Kristin Steele?,(778)552-6461
+When did Kristin Steele join the company?,2022-07-06
+Who is the manager of Kristin Steele?,John Mcconnell
+What is the performance rating of Kristin Steele?,4
+How many leaves has Kristin Steele taken?,19
+What is the gender of Kristin Steele?,Female
+What bonuses has Kristin Steele received?,[]
+What promotions has Kristin Steele received?,['Aeronautical engineer']
+List all details for Kristin Steele.,"{'name': 'Kristin Steele', 'department': 'HR', 'position': 'Developer', 'salary': 50241, 'years_experience': 27, 'email': 'cmartinez@example.com', 'contact_number': '(778)552-6461', 'join_date': '2022-07-06', 'manager': 'John Mcconnell', 'performance_rating': 4, 'leaves_taken': 19, 'gender': 'Female', 'bonuses': '[]', 'promotions': ""['Aeronautical engineer']""}"
+What is the salary of Stephen Tran?,132433
+How many years of experience does Stephen Tran have?,10
+What department does Stephen Tran work in?,Sales
+What position does Stephen Tran hold?,Manager
+What is Stephen Tran's email?,pwalker@example.com
+What is the contact number of Stephen Tran?,672.337.4579x2813
+When did Stephen Tran join the company?,2015-10-18
+Who is the manager of Stephen Tran?,Andrew Berg
+What is the performance rating of Stephen Tran?,5
+How many leaves has Stephen Tran taken?,19
+What is the gender of Stephen Tran?,Male
+What bonuses has Stephen Tran received?,"[3892, 4077, 2930]"
+What promotions has Stephen Tran received?,[]
+List all details for Stephen Tran.,"{'name': 'Stephen Tran', 'department': 'Sales', 'position': 'Manager', 'salary': 132433, 'years_experience': 10, 'email': 'pwalker@example.com', 'contact_number': '672.337.4579x2813', 'join_date': '2015-10-18', 'manager': 'Andrew Berg', 'performance_rating': 5, 'leaves_taken': 19, 'gender': 'Male', 'bonuses': '[3892, 4077, 2930]', 'promotions': '[]'}"
+What is the salary of Pamela Mcdonald?,121269
+How many years of experience does Pamela Mcdonald have?,25
+What department does Pamela Mcdonald work in?,Marketing
+What position does Pamela Mcdonald hold?,Analyst
+What is Pamela Mcdonald's email?,robertlee@example.com
+What is the contact number of Pamela Mcdonald?,8584352889
+When did Pamela Mcdonald join the company?,2023-03-10
+Who is the manager of Pamela Mcdonald?,Laura Lewis
+What is the performance rating of Pamela Mcdonald?,4
+How many leaves has Pamela Mcdonald taken?,8
+What is the gender of Pamela Mcdonald?,Male
+What bonuses has Pamela Mcdonald received?,[]
+What promotions has Pamela Mcdonald received?,"['Prison officer', 'Amenity horticulturist']"
+List all details for Pamela Mcdonald.,"{'name': 'Pamela Mcdonald', 'department': 'Marketing', 'position': 'Analyst', 'salary': 121269, 'years_experience': 25, 'email': 'robertlee@example.com', 'contact_number': '8584352889', 'join_date': '2023-03-10', 'manager': 'Laura Lewis', 'performance_rating': 4, 'leaves_taken': 8, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Prison officer', 'Amenity horticulturist']""}"
+What is the salary of Taylor Bridges?,83629
+How many years of experience does Taylor Bridges have?,13
+What department does Taylor Bridges work in?,IT
+What position does Taylor Bridges hold?,Manager
+What is Taylor Bridges's email?,aaronbrown@example.org
+What is the contact number of Taylor Bridges?,793.918.6457x325
+When did Taylor Bridges join the company?,2021-06-10
+Who is the manager of Taylor Bridges?,Matthew Singleton
+What is the performance rating of Taylor Bridges?,5
+How many leaves has Taylor Bridges taken?,28
+What is the gender of Taylor Bridges?,Female
+What bonuses has Taylor Bridges received?,"[1417, 4057, 2034]"
+What promotions has Taylor Bridges received?,"['Psychotherapist', 'Broadcast engineer']"
+List all details for Taylor Bridges.,"{'name': 'Taylor Bridges', 'department': 'IT', 'position': 'Manager', 'salary': 83629, 'years_experience': 13, 'email': 'aaronbrown@example.org', 'contact_number': '793.918.6457x325', 'join_date': '2021-06-10', 'manager': 'Matthew Singleton', 'performance_rating': 5, 'leaves_taken': 28, 'gender': 'Female', 'bonuses': '[1417, 4057, 2034]', 'promotions': ""['Psychotherapist', 'Broadcast engineer']""}"
+What is the salary of Paul Walton?,128041
+How many years of experience does Paul Walton have?,3
+What department does Paul Walton work in?,Sales
+What position does Paul Walton hold?,Analyst
+What is Paul Walton's email?,tsampson@example.net
+What is the contact number of Paul Walton?,850.506.3169
+When did Paul Walton join the company?,2014-11-11
+Who is the manager of Paul Walton?,Mary Schmidt
+What is the performance rating of Paul Walton?,1
+How many leaves has Paul Walton taken?,2
+What is the gender of Paul Walton?,Female
+What bonuses has Paul Walton received?,"[3185, 2392]"
+What promotions has Paul Walton received?,[]
+List all details for Paul Walton.,"{'name': 'Paul Walton', 'department': 'Sales', 'position': 'Analyst', 'salary': 128041, 'years_experience': 3, 'email': 'tsampson@example.net', 'contact_number': '850.506.3169', 'join_date': '2014-11-11', 'manager': 'Mary Schmidt', 'performance_rating': 1, 'leaves_taken': 2, 'gender': 'Female', 'bonuses': '[3185, 2392]', 'promotions': '[]'}"
+What is the salary of Elizabeth Stephens?,149876
+How many years of experience does Elizabeth Stephens have?,6
+What department does Elizabeth Stephens work in?,Finance
+What position does Elizabeth Stephens hold?,Analyst
+What is Elizabeth Stephens's email?,millertara@example.com
+What is the contact number of Elizabeth Stephens?,001-703-469-5410x39098
+When did Elizabeth Stephens join the company?,2022-09-19
+Who is the manager of Elizabeth Stephens?,Kevin Ramirez
+What is the performance rating of Elizabeth Stephens?,1
+How many leaves has Elizabeth Stephens taken?,13
+What is the gender of Elizabeth Stephens?,Female
+What bonuses has Elizabeth Stephens received?,"[3129, 1550]"
+What promotions has Elizabeth Stephens received?,['English as a foreign language teacher']
+List all details for Elizabeth Stephens.,"{'name': 'Elizabeth Stephens', 'department': 'Finance', 'position': 'Analyst', 'salary': 149876, 'years_experience': 6, 'email': 'millertara@example.com', 'contact_number': '001-703-469-5410x39098', 'join_date': '2022-09-19', 'manager': 'Kevin Ramirez', 'performance_rating': 1, 'leaves_taken': 13, 'gender': 'Female', 'bonuses': '[3129, 1550]', 'promotions': ""['English as a foreign language teacher']""}"
+What is the salary of Paul Pennington?,103844
+How many years of experience does Paul Pennington have?,21
+What department does Paul Pennington work in?,Finance
+What position does Paul Pennington hold?,Manager
+What is Paul Pennington's email?,madisonbaker@example.org
+What is the contact number of Paul Pennington?,8257997187
+When did Paul Pennington join the company?,2021-05-08
+Who is the manager of Paul Pennington?,Allison Hamilton
+What is the performance rating of Paul Pennington?,5
+How many leaves has Paul Pennington taken?,12
+What is the gender of Paul Pennington?,Female
+What bonuses has Paul Pennington received?,"[2811, 2522]"
+What promotions has Paul Pennington received?,['Contracting civil engineer']
+List all details for Paul Pennington.,"{'name': 'Paul Pennington', 'department': 'Finance', 'position': 'Manager', 'salary': 103844, 'years_experience': 21, 'email': 'madisonbaker@example.org', 'contact_number': '8257997187', 'join_date': '2021-05-08', 'manager': 'Allison Hamilton', 'performance_rating': 5, 'leaves_taken': 12, 'gender': 'Female', 'bonuses': '[2811, 2522]', 'promotions': ""['Contracting civil engineer']""}"
+What is the salary of Stacey Wilson?,141361
+How many years of experience does Stacey Wilson have?,4
+What department does Stacey Wilson work in?,HR
+What position does Stacey Wilson hold?,Manager
+What is Stacey Wilson's email?,owright@example.com
+What is the contact number of Stacey Wilson?,261-454-5938x805
+When did Stacey Wilson join the company?,2023-03-22
+Who is the manager of Stacey Wilson?,Mandy Scott
+What is the performance rating of Stacey Wilson?,4
+How many leaves has Stacey Wilson taken?,12
+What is the gender of Stacey Wilson?,Female
+What bonuses has Stacey Wilson received?,[3292]
+What promotions has Stacey Wilson received?,"['Copywriter, advertising', 'Local government officer']"
+List all details for Stacey Wilson.,"{'name': 'Stacey Wilson', 'department': 'HR', 'position': 'Manager', 'salary': 141361, 'years_experience': 4, 'email': 'owright@example.com', 'contact_number': '261-454-5938x805', 'join_date': '2023-03-22', 'manager': 'Mandy Scott', 'performance_rating': 4, 'leaves_taken': 12, 'gender': 'Female', 'bonuses': '[3292]', 'promotions': ""['Copywriter, advertising', 'Local government officer']""}"
+What is the salary of Ariana Hoffman DVM?,147300
+How many years of experience does Ariana Hoffman DVM have?,14
+What department does Ariana Hoffman DVM work in?,Sales
+What position does Ariana Hoffman DVM hold?,Consultant
+What is Ariana Hoffman DVM's email?,kingdalton@example.org
+What is the contact number of Ariana Hoffman DVM?,001-527-408-3518
+When did Ariana Hoffman DVM join the company?,2018-09-16
+Who is the manager of Ariana Hoffman DVM?,Lee Mcgee
+What is the performance rating of Ariana Hoffman DVM?,2
+How many leaves has Ariana Hoffman DVM taken?,15
+What is the gender of Ariana Hoffman DVM?,Female
+What bonuses has Ariana Hoffman DVM received?,"[3054, 2303, 3018, 3670, 4925]"
+What promotions has Ariana Hoffman DVM received?,[]
+List all details for Ariana Hoffman DVM.,"{'name': 'Ariana Hoffman DVM', 'department': 'Sales', 'position': 'Consultant', 'salary': 147300, 'years_experience': 14, 'email': 'kingdalton@example.org', 'contact_number': '001-527-408-3518', 'join_date': '2018-09-16', 'manager': 'Lee Mcgee', 'performance_rating': 2, 'leaves_taken': 15, 'gender': 'Female', 'bonuses': '[3054, 2303, 3018, 3670, 4925]', 'promotions': '[]'}"
+What is the salary of Derrick Kaufman?,68718
+How many years of experience does Derrick Kaufman have?,24
+What department does Derrick Kaufman work in?,Marketing
+What position does Derrick Kaufman hold?,Developer
+What is Derrick Kaufman's email?,terri83@example.org
+What is the contact number of Derrick Kaufman?,252.648.0154x501
+When did Derrick Kaufman join the company?,2016-09-28
+Who is the manager of Derrick Kaufman?,Donald Harris
+What is the performance rating of Derrick Kaufman?,4
+How many leaves has Derrick Kaufman taken?,1
+What is the gender of Derrick Kaufman?,Male
+What bonuses has Derrick Kaufman received?,[]
+What promotions has Derrick Kaufman received?,"['Surveyor, building', 'Logistics and distribution manager']"
+List all details for Derrick Kaufman.,"{'name': 'Derrick Kaufman', 'department': 'Marketing', 'position': 'Developer', 'salary': 68718, 'years_experience': 24, 'email': 'terri83@example.org', 'contact_number': '252.648.0154x501', 'join_date': '2016-09-28', 'manager': 'Donald Harris', 'performance_rating': 4, 'leaves_taken': 1, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Surveyor, building', 'Logistics and distribution manager']""}"
+What is the salary of Ann Shaw?,51325
+How many years of experience does Ann Shaw have?,28
+What department does Ann Shaw work in?,Marketing
+What position does Ann Shaw hold?,Consultant
+What is Ann Shaw's email?,lmartinez@example.com
+What is the contact number of Ann Shaw?,624-236-4000x41558
+When did Ann Shaw join the company?,2019-01-10
+Who is the manager of Ann Shaw?,Melissa Taylor
+What is the performance rating of Ann Shaw?,5
+How many leaves has Ann Shaw taken?,2
+What is the gender of Ann Shaw?,Male
+What bonuses has Ann Shaw received?,"[4888, 4039, 4787, 3740, 2618]"
+What promotions has Ann Shaw received?,[]
+List all details for Ann Shaw.,"{'name': 'Ann Shaw', 'department': 'Marketing', 'position': 'Consultant', 'salary': 51325, 'years_experience': 28, 'email': 'lmartinez@example.com', 'contact_number': '624-236-4000x41558', 'join_date': '2019-01-10', 'manager': 'Melissa Taylor', 'performance_rating': 5, 'leaves_taken': 2, 'gender': 'Male', 'bonuses': '[4888, 4039, 4787, 3740, 2618]', 'promotions': '[]'}"
+What is the salary of Rachel Barnes?,65224
+How many years of experience does Rachel Barnes have?,20
+What department does Rachel Barnes work in?,Sales
+What position does Rachel Barnes hold?,Manager
+What is Rachel Barnes's email?,jonedwards@example.net
+What is the contact number of Rachel Barnes?,371.665.2803x7603
+When did Rachel Barnes join the company?,2016-06-19
+Who is the manager of Rachel Barnes?,Sue Horne
+What is the performance rating of Rachel Barnes?,1
+How many leaves has Rachel Barnes taken?,8
+What is the gender of Rachel Barnes?,Female
+What bonuses has Rachel Barnes received?,"[4689, 1928, 1576, 4078, 3346]"
+What promotions has Rachel Barnes received?,"['Administrator, local government', 'Medical illustrator']"
+List all details for Rachel Barnes.,"{'name': 'Rachel Barnes', 'department': 'Sales', 'position': 'Manager', 'salary': 65224, 'years_experience': 20, 'email': 'jonedwards@example.net', 'contact_number': '371.665.2803x7603', 'join_date': '2016-06-19', 'manager': 'Sue Horne', 'performance_rating': 1, 'leaves_taken': 8, 'gender': 'Female', 'bonuses': '[4689, 1928, 1576, 4078, 3346]', 'promotions': ""['Administrator, local government', 'Medical illustrator']""}"
+What is the salary of Belinda Wright?,106887
+How many years of experience does Belinda Wright have?,15
+What department does Belinda Wright work in?,HR
+What position does Belinda Wright hold?,Manager
+What is Belinda Wright's email?,joseph67@example.net
+What is the contact number of Belinda Wright?,4284533234
+When did Belinda Wright join the company?,2024-03-06
+Who is the manager of Belinda Wright?,Ms. Catherine Lin
+What is the performance rating of Belinda Wright?,3
+How many leaves has Belinda Wright taken?,12
+What is the gender of Belinda Wright?,Male
+What bonuses has Belinda Wright received?,"[2727, 3654]"
+What promotions has Belinda Wright received?,"['Pensions consultant', 'Designer, graphic', 'Financial planner']"
+List all details for Belinda Wright.,"{'name': 'Belinda Wright', 'department': 'HR', 'position': 'Manager', 'salary': 106887, 'years_experience': 15, 'email': 'joseph67@example.net', 'contact_number': '4284533234', 'join_date': '2024-03-06', 'manager': 'Ms. Catherine Lin', 'performance_rating': 3, 'leaves_taken': 12, 'gender': 'Male', 'bonuses': '[2727, 3654]', 'promotions': ""['Pensions consultant', 'Designer, graphic', 'Financial planner']""}"
+What is the salary of Betty Whitaker?,142907
+How many years of experience does Betty Whitaker have?,5
+What department does Betty Whitaker work in?,HR
+What position does Betty Whitaker hold?,Consultant
+What is Betty Whitaker's email?,juliewarren@example.com
+What is the contact number of Betty Whitaker?,001-907-330-6268x636
+When did Betty Whitaker join the company?,2016-12-12
+Who is the manager of Betty Whitaker?,Kim Nolan
+What is the performance rating of Betty Whitaker?,5
+How many leaves has Betty Whitaker taken?,10
+What is the gender of Betty Whitaker?,Male
+What bonuses has Betty Whitaker received?,[4728]
+What promotions has Betty Whitaker received?,['Ceramics designer']
+List all details for Betty Whitaker.,"{'name': 'Betty Whitaker', 'department': 'HR', 'position': 'Consultant', 'salary': 142907, 'years_experience': 5, 'email': 'juliewarren@example.com', 'contact_number': '001-907-330-6268x636', 'join_date': '2016-12-12', 'manager': 'Kim Nolan', 'performance_rating': 5, 'leaves_taken': 10, 'gender': 'Male', 'bonuses': '[4728]', 'promotions': ""['Ceramics designer']""}"
+What is the salary of Paul Sanchez?,100970
+How many years of experience does Paul Sanchez have?,14
+What department does Paul Sanchez work in?,Marketing
+What position does Paul Sanchez hold?,Developer
+What is Paul Sanchez's email?,rcole@example.com
+What is the contact number of Paul Sanchez?,(964)512-9330x081
+When did Paul Sanchez join the company?,2022-06-16
+Who is the manager of Paul Sanchez?,Stephanie Stanley
+What is the performance rating of Paul Sanchez?,4
+How many leaves has Paul Sanchez taken?,12
+What is the gender of Paul Sanchez?,Male
+What bonuses has Paul Sanchez received?,[2799]
+What promotions has Paul Sanchez received?,['Tourism officer']
+List all details for Paul Sanchez.,"{'name': 'Paul Sanchez', 'department': 'Marketing', 'position': 'Developer', 'salary': 100970, 'years_experience': 14, 'email': 'rcole@example.com', 'contact_number': '(964)512-9330x081', 'join_date': '2022-06-16', 'manager': 'Stephanie Stanley', 'performance_rating': 4, 'leaves_taken': 12, 'gender': 'Male', 'bonuses': '[2799]', 'promotions': ""['Tourism officer']""}"
+What is the salary of Katrina Smith?,100901
+How many years of experience does Katrina Smith have?,2
+What department does Katrina Smith work in?,Finance
+What position does Katrina Smith hold?,Manager
+What is Katrina Smith's email?,michaelhoward@example.com
+What is the contact number of Katrina Smith?,642.707.3965x74727
+When did Katrina Smith join the company?,2020-09-23
+Who is the manager of Katrina Smith?,Lindsey Foster
+What is the performance rating of Katrina Smith?,2
+How many leaves has Katrina Smith taken?,20
+What is the gender of Katrina Smith?,Male
+What bonuses has Katrina Smith received?,[2489]
+What promotions has Katrina Smith received?,[]
+List all details for Katrina Smith.,"{'name': 'Katrina Smith', 'department': 'Finance', 'position': 'Manager', 'salary': 100901, 'years_experience': 2, 'email': 'michaelhoward@example.com', 'contact_number': '642.707.3965x74727', 'join_date': '2020-09-23', 'manager': 'Lindsey Foster', 'performance_rating': 2, 'leaves_taken': 20, 'gender': 'Male', 'bonuses': '[2489]', 'promotions': '[]'}"
+What is the salary of Steven Evans?,130056
+How many years of experience does Steven Evans have?,10
+What department does Steven Evans work in?,HR
+What position does Steven Evans hold?,Analyst
+What is Steven Evans's email?,jacobrobinson@example.net
+What is the contact number of Steven Evans?,(682)898-8875
+When did Steven Evans join the company?,2019-12-04
+Who is the manager of Steven Evans?,Matthew Williams
+What is the performance rating of Steven Evans?,5
+How many leaves has Steven Evans taken?,2
+What is the gender of Steven Evans?,Female
+What bonuses has Steven Evans received?,"[2685, 2877]"
+What promotions has Steven Evans received?,[]
+List all details for Steven Evans.,"{'name': 'Steven Evans', 'department': 'HR', 'position': 'Analyst', 'salary': 130056, 'years_experience': 10, 'email': 'jacobrobinson@example.net', 'contact_number': '(682)898-8875', 'join_date': '2019-12-04', 'manager': 'Matthew Williams', 'performance_rating': 5, 'leaves_taken': 2, 'gender': 'Female', 'bonuses': '[2685, 2877]', 'promotions': '[]'}"
+What is the salary of Tracy Ellis?,146261
+How many years of experience does Tracy Ellis have?,30
+What department does Tracy Ellis work in?,Finance
+What position does Tracy Ellis hold?,Executive
+What is Tracy Ellis's email?,smithcarla@example.com
+What is the contact number of Tracy Ellis?,2322925940
+When did Tracy Ellis join the company?,2017-08-22
+Who is the manager of Tracy Ellis?,Emily Short
+What is the performance rating of Tracy Ellis?,4
+How many leaves has Tracy Ellis taken?,18
+What is the gender of Tracy Ellis?,Female
+What bonuses has Tracy Ellis received?,"[2043, 3884, 2948]"
+What promotions has Tracy Ellis received?,"['Nurse, learning disability']"
+List all details for Tracy Ellis.,"{'name': 'Tracy Ellis', 'department': 'Finance', 'position': 'Executive', 'salary': 146261, 'years_experience': 30, 'email': 'smithcarla@example.com', 'contact_number': '2322925940', 'join_date': '2017-08-22', 'manager': 'Emily Short', 'performance_rating': 4, 'leaves_taken': 18, 'gender': 'Female', 'bonuses': '[2043, 3884, 2948]', 'promotions': ""['Nurse, learning disability']""}"
+What is the salary of Nancy Garrison?,55535
+How many years of experience does Nancy Garrison have?,2
+What department does Nancy Garrison work in?,Sales
+What position does Nancy Garrison hold?,Developer
+What is Nancy Garrison's email?,perkinskimberly@example.net
+What is the contact number of Nancy Garrison?,5207984536
+When did Nancy Garrison join the company?,2017-12-06
+Who is the manager of Nancy Garrison?,Kathleen Hernandez
+What is the performance rating of Nancy Garrison?,1
+How many leaves has Nancy Garrison taken?,5
+What is the gender of Nancy Garrison?,Female
+What bonuses has Nancy Garrison received?,[]
+What promotions has Nancy Garrison received?,"['Therapist, art', 'Risk analyst']"
+List all details for Nancy Garrison.,"{'name': 'Nancy Garrison', 'department': 'Sales', 'position': 'Developer', 'salary': 55535, 'years_experience': 2, 'email': 'perkinskimberly@example.net', 'contact_number': '5207984536', 'join_date': '2017-12-06', 'manager': 'Kathleen Hernandez', 'performance_rating': 1, 'leaves_taken': 5, 'gender': 'Female', 'bonuses': '[]', 'promotions': ""['Therapist, art', 'Risk analyst']""}"
+What is the salary of Mark Lozano?,58347
+How many years of experience does Mark Lozano have?,26
+What department does Mark Lozano work in?,IT
+What position does Mark Lozano hold?,Analyst
+What is Mark Lozano's email?,rebeccabrown@example.net
+What is the contact number of Mark Lozano?,2287164593
+When did Mark Lozano join the company?,2017-02-21
+Who is the manager of Mark Lozano?,William Burgess
+What is the performance rating of Mark Lozano?,4
+How many leaves has Mark Lozano taken?,21
+What is the gender of Mark Lozano?,Male
+What bonuses has Mark Lozano received?,"[2624, 3284, 4774, 1905]"
+What promotions has Mark Lozano received?,"['Radiographer, diagnostic', 'Quarry manager', 'Transport planner']"
+List all details for Mark Lozano.,"{'name': 'Mark Lozano', 'department': 'IT', 'position': 'Analyst', 'salary': 58347, 'years_experience': 26, 'email': 'rebeccabrown@example.net', 'contact_number': '2287164593', 'join_date': '2017-02-21', 'manager': 'William Burgess', 'performance_rating': 4, 'leaves_taken': 21, 'gender': 'Male', 'bonuses': '[2624, 3284, 4774, 1905]', 'promotions': ""['Radiographer, diagnostic', 'Quarry manager', 'Transport planner']""}"
+What is the salary of Debra Brewer?,129733
+How many years of experience does Debra Brewer have?,4
+What department does Debra Brewer work in?,HR
+What position does Debra Brewer hold?,Developer
+What is Debra Brewer's email?,kbrock@example.org
+What is the contact number of Debra Brewer?,448.969.7629x62191
+When did Debra Brewer join the company?,2019-10-19
+Who is the manager of Debra Brewer?,Ariel Duran
+What is the performance rating of Debra Brewer?,5
+How many leaves has Debra Brewer taken?,28
+What is the gender of Debra Brewer?,Male
+What bonuses has Debra Brewer received?,"[2322, 3195]"
+What promotions has Debra Brewer received?,"['Garment/textile technologist', 'Health and safety adviser', 'Clinical psychologist']"
+List all details for Debra Brewer.,"{'name': 'Debra Brewer', 'department': 'HR', 'position': 'Developer', 'salary': 129733, 'years_experience': 4, 'email': 'kbrock@example.org', 'contact_number': '448.969.7629x62191', 'join_date': '2019-10-19', 'manager': 'Ariel Duran', 'performance_rating': 5, 'leaves_taken': 28, 'gender': 'Male', 'bonuses': '[2322, 3195]', 'promotions': ""['Garment/textile technologist', 'Health and safety adviser', 'Clinical psychologist']""}"
+What is the salary of Katrina Herrera?,53778
+How many years of experience does Katrina Herrera have?,17
+What department does Katrina Herrera work in?,Sales
+What position does Katrina Herrera hold?,Developer
+What is Katrina Herrera's email?,smithcathy@example.org
+What is the contact number of Katrina Herrera?,566-270-5216
+When did Katrina Herrera join the company?,2018-05-09
+Who is the manager of Katrina Herrera?,Thomas Johnson
+What is the performance rating of Katrina Herrera?,1
+How many leaves has Katrina Herrera taken?,6
+What is the gender of Katrina Herrera?,Female
+What bonuses has Katrina Herrera received?,[]
+What promotions has Katrina Herrera received?,['Tour manager']
+List all details for Katrina Herrera.,"{'name': 'Katrina Herrera', 'department': 'Sales', 'position': 'Developer', 'salary': 53778, 'years_experience': 17, 'email': 'smithcathy@example.org', 'contact_number': '566-270-5216', 'join_date': '2018-05-09', 'manager': 'Thomas Johnson', 'performance_rating': 1, 'leaves_taken': 6, 'gender': 'Female', 'bonuses': '[]', 'promotions': ""['Tour manager']""}"
+What is the salary of Brandi Simon?,74613
+How many years of experience does Brandi Simon have?,27
+What department does Brandi Simon work in?,Finance
+What position does Brandi Simon hold?,Developer
+What is Brandi Simon's email?,richard80@example.net
+What is the contact number of Brandi Simon?,682.682.3921x974
+When did Brandi Simon join the company?,2018-05-24
+Who is the manager of Brandi Simon?,Adam Fields
+What is the performance rating of Brandi Simon?,2
+How many leaves has Brandi Simon taken?,8
+What is the gender of Brandi Simon?,Female
+What bonuses has Brandi Simon received?,"[3117, 4522]"
+What promotions has Brandi Simon received?,"['Arts development officer', 'Scientist, research (physical sciences)', 'Building control surveyor']"
+List all details for Brandi Simon.,"{'name': 'Brandi Simon', 'department': 'Finance', 'position': 'Developer', 'salary': 74613, 'years_experience': 27, 'email': 'richard80@example.net', 'contact_number': '682.682.3921x974', 'join_date': '2018-05-24', 'manager': 'Adam Fields', 'performance_rating': 2, 'leaves_taken': 8, 'gender': 'Female', 'bonuses': '[3117, 4522]', 'promotions': ""['Arts development officer', 'Scientist, research (physical sciences)', 'Building control surveyor']""}"
+What is the salary of Margaret Moore?,95080
+How many years of experience does Margaret Moore have?,28
+What department does Margaret Moore work in?,Sales
+What position does Margaret Moore hold?,Consultant
+What is Margaret Moore's email?,marissaromero@example.org
+What is the contact number of Margaret Moore?,905-325-9115x34757
+When did Margaret Moore join the company?,2016-03-02
+Who is the manager of Margaret Moore?,James Powell
+What is the performance rating of Margaret Moore?,2
+How many leaves has Margaret Moore taken?,1
+What is the gender of Margaret Moore?,Female
+What bonuses has Margaret Moore received?,"[1296, 1037, 2887, 3028]"
+What promotions has Margaret Moore received?,"['Quantity surveyor', 'Structural engineer', 'Physiological scientist']"
+List all details for Margaret Moore.,"{'name': 'Margaret Moore', 'department': 'Sales', 'position': 'Consultant', 'salary': 95080, 'years_experience': 28, 'email': 'marissaromero@example.org', 'contact_number': '905-325-9115x34757', 'join_date': '2016-03-02', 'manager': 'James Powell', 'performance_rating': 2, 'leaves_taken': 1, 'gender': 'Female', 'bonuses': '[1296, 1037, 2887, 3028]', 'promotions': ""['Quantity surveyor', 'Structural engineer', 'Physiological scientist']""}"
+What is the salary of Susan Thomas?,114694
+How many years of experience does Susan Thomas have?,15
+What department does Susan Thomas work in?,IT
+What position does Susan Thomas hold?,Consultant
+What is Susan Thomas's email?,gpoole@example.com
+What is the contact number of Susan Thomas?,(612)620-6911
+When did Susan Thomas join the company?,2020-10-13
+Who is the manager of Susan Thomas?,Sheila Woods
+What is the performance rating of Susan Thomas?,4
+How many leaves has Susan Thomas taken?,3
+What is the gender of Susan Thomas?,Male
+What bonuses has Susan Thomas received?,[]
+What promotions has Susan Thomas received?,"['Therapist, art']"
+List all details for Susan Thomas.,"{'name': 'Susan Thomas', 'department': 'IT', 'position': 'Consultant', 'salary': 114694, 'years_experience': 15, 'email': 'gpoole@example.com', 'contact_number': '(612)620-6911', 'join_date': '2020-10-13', 'manager': 'Sheila Woods', 'performance_rating': 4, 'leaves_taken': 3, 'gender': 'Male', 'bonuses': '[]', 'promotions': ""['Therapist, art']""}"
+What is the salary of Natasha Conway?,104265
+How many years of experience does Natasha Conway have?,29
+What department does Natasha Conway work in?,IT
+What position does Natasha Conway hold?,Analyst
+What is Natasha Conway's email?,ohunt@example.net
+What is the contact number of Natasha Conway?,9653580391
+When did Natasha Conway join the company?,2021-01-19
+Who is the manager of Natasha Conway?,Malik Gardner
+What is the performance rating of Natasha Conway?,2
+How many leaves has Natasha Conway taken?,14
+What is the gender of Natasha Conway?,Male
+What bonuses has Natasha Conway received?,"[3289, 4091, 4631]"
+What promotions has Natasha Conway received?,"['Scientist, physiological', 'Runner, broadcasting/film/video', 'Clinical research associate']"
+List all details for Natasha Conway.,"{'name': 'Natasha Conway', 'department': 'IT', 'position': 'Analyst', 'salary': 104265, 'years_experience': 29, 'email': 'ohunt@example.net', 'contact_number': '9653580391', 'join_date': '2021-01-19', 'manager': 'Malik Gardner', 'performance_rating': 2, 'leaves_taken': 14, 'gender': 'Male', 'bonuses': '[3289, 4091, 4631]', 'promotions': ""['Scientist, physiological', 'Runner, broadcasting/film/video', 'Clinical research associate']""}"
+What is the salary of Laura Williams?,82732
+How many years of experience does Laura Williams have?,16
+What department does Laura Williams work in?,IT
+What position does Laura Williams hold?,Analyst
+What is Laura Williams's email?,hector47@example.com
+What is the contact number of Laura Williams?,001-960-537-5207x82649
+When did Laura Williams join the company?,2015-04-04
+Who is the manager of Laura Williams?,Yvonne Greene
+What is the performance rating of Laura Williams?,2
+How many leaves has Laura Williams taken?,4
+What is the gender of Laura Williams?,Female
+What bonuses has Laura Williams received?,"[2309, 2781]"
+What promotions has Laura Williams received?,[]
+List all details for Laura Williams.,"{'name': 'Laura Williams', 'department': 'IT', 'position': 'Analyst', 'salary': 82732, 'years_experience': 16, 'email': 'hector47@example.com', 'contact_number': '001-960-537-5207x82649', 'join_date': '2015-04-04', 'manager': 'Yvonne Greene', 'performance_rating': 2, 'leaves_taken': 4, 'gender': 'Female', 'bonuses': '[2309, 2781]', 'promotions': '[]'}"
+What is the salary of Carrie Alexander?,129964
+How many years of experience does Carrie Alexander have?,18
+What department does Carrie Alexander work in?,Finance
+What position does Carrie Alexander hold?,Developer
+What is Carrie Alexander's email?,tiffany92@example.net
+What is the contact number of Carrie Alexander?,(563)756-4334x38957
+When did Carrie Alexander join the company?,2017-04-14
+Who is the manager of Carrie Alexander?,Charles Wolf
+What is the performance rating of Carrie Alexander?,2
+How many leaves has Carrie Alexander taken?,22
+What is the gender of Carrie Alexander?,Female
+What bonuses has Carrie Alexander received?,"[3105, 3476, 2892]"
+What promotions has Carrie Alexander received?,"['Statistician', 'Early years teacher']"
+List all details for Carrie Alexander.,"{'name': 'Carrie Alexander', 'department': 'Finance', 'position': 'Developer', 'salary': 129964, 'years_experience': 18, 'email': 'tiffany92@example.net', 'contact_number': '(563)756-4334x38957', 'join_date': '2017-04-14', 'manager': 'Charles Wolf', 'performance_rating': 2, 'leaves_taken': 22, 'gender': 'Female', 'bonuses': '[3105, 3476, 2892]', 'promotions': ""['Statistician', 'Early years teacher']""}"
+What is the salary of Michelle Wilson?,52170
+How many years of experience does Michelle Wilson have?,4
+What department does Michelle Wilson work in?,Sales
+What position does Michelle Wilson hold?,Analyst
+What is Michelle Wilson's email?,scastillo@example.org
+What is the contact number of Michelle Wilson?,+1-559-731-8734x648
+When did Michelle Wilson join the company?,2021-09-17
+Who is the manager of Michelle Wilson?,Alex Lee
+What is the performance rating of Michelle Wilson?,5
+How many leaves has Michelle Wilson taken?,25
+What is the gender of Michelle Wilson?,Male
+What bonuses has Michelle Wilson received?,[4001]
+What promotions has Michelle Wilson received?,"['Engineer, chemical', 'Trade mark attorney', 'Development worker, community']"
+List all details for Michelle Wilson.,"{'name': 'Michelle Wilson', 'department': 'Sales', 'position': 'Analyst', 'salary': 52170, 'years_experience': 4, 'email': 'scastillo@example.org', 'contact_number': '+1-559-731-8734x648', 'join_date': '2021-09-17', 'manager': 'Alex Lee', 'performance_rating': 5, 'leaves_taken': 25, 'gender': 'Male', 'bonuses': '[4001]', 'promotions': ""['Engineer, chemical', 'Trade mark attorney', 'Development worker, community']""}"
+What is the salary of Judy King?,87297
+How many years of experience does Judy King have?,29
+What department does Judy King work in?,HR
+What position does Judy King hold?,Analyst
+What is Judy King's email?,haley65@example.net
+What is the contact number of Judy King?,001-860-910-5249x8748
+When did Judy King join the company?,2021-03-04
+Who is the manager of Judy King?,Michael Barber
+What is the performance rating of Judy King?,1
+How many leaves has Judy King taken?,23
+What is the gender of Judy King?,Female
+What bonuses has Judy King received?,[]
+What promotions has Judy King received?,[]
+List all details for Judy King.,"{'name': 'Judy King', 'department': 'HR', 'position': 'Analyst', 'salary': 87297, 'years_experience': 29, 'email': 'haley65@example.net', 'contact_number': '001-860-910-5249x8748', 'join_date': '2021-03-04', 'manager': 'Michael Barber', 'performance_rating': 1, 'leaves_taken': 23, 'gender': 'Female', 'bonuses': '[]', 'promotions': '[]'}"
